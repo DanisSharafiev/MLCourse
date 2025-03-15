@@ -2,9 +2,88 @@
 
 Лучше всего, если до изучения этого у вас есть базовые познания в линейной алгебре, возможно в математическом анализе и в статистике/теории вероятности.
 # Outline:
-## Basic Models
-	Линейная регрессия (1)
-	Полиномиальная регрессия (1)
+### Базовые алгоритмы (расширенный список)
+
+#### Регрессия (Regression)
+
+- Линейная регрессия (1)
+- Полиномиальная регрессия (1)
+- Ridge + Lasso + Elastic Net (2)
+- Байесовская регрессия (3)
+- Регрессия по деревьям (2)
+
+#### Классификация (Classification)
+
+- Наивный байес (Naive Bayes) (1)
+- Gaussian Naive Bayes (1)
+- Метод k-ближайших соседей (KNN) (1)
+- Дерево решений классификатор и регрессия (Decision Tree Classifier and Regression) (1)
+- Случайный лес классификатор и регрессия (Random Forest Classifier and Regression) (2)
+- Метод опорных векторов (SVM) (2)
+- Max-margin classification (2)
+- Лагранжиан SVM (Lagrangian SVM) (3)
+- QDA (Quadratic Discriminant Analysis) (2)
+- Градиентный бустинг (GBDT) (2)
+
+#### Кластеризация (Clustering)
+
+- K-Means (1)
+- K-Means ++ (2)
+- Иерархическая кластеризация (Hierarchical Clustering) (2)
+- DBSCAN (2)
+- Mean-Shift (2)
+- Silhouette Clustering (3)
+- Affinity Propagation (3)
+- OPTICS (3)
+
+#### Ансамблевые методы (Ensemble Methods)
+
+- AdaBoost (2)
+- Стеккинг (Stacking) (3)
+- XGBoost (2)
+- LightGBM (2)
+- CatBoost (2)
+- Voting (2)
+- Blending (3)
+
+#### Снижение размерности (Dimensionality Reduction)
+
+- PCA (1)
+- SVD (2)
+- t-SNE (2)
+- UMAP (3)
+
+#### Перцептрон (Perceptron)
+
+- Perceptron (1)
+- Adaline (1)
+
+#### Обработка естественного языка (NLP - Natural Language Processing)
+
+- Bag of Words (BoW) (1)
+- TF-IDF (Term Frequency-Inverse Document Frequency) (1)
+- Word Embeddings (Word2Vec, GloVe) (2)
+- N-grams (2)
+- Latent Dirichlet Allocation (LDA) (2)
+- Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3)
+- Sentiment Analysis с Naive Bayes (2)
+
+#### Компьютерное зрение (CV - Computer Vision)
+
+- Haar Cascades (1)
+- HOG (Histogram of Oriented Gradients) (2)
+- SIFT (Scale-Invariant Feature Transform) (2)
+- SURF (Speeded-Up Robust Features) (2)
+- Viola-Jones Algorithm (1)
+- Edge Detection (Canny, Sobel) (1)
+
+#### Усиленное обучение (RL - Reinforcement Learning)
+
+- Q-Learning (2)
+- SARSA (2)
+- Deep Q-Networks (DQN) (3)
+- Policy Gradient Methods (3)
+- Actor-Critic Methods (3)
 ## Сбор данных
 	Источник данных (1)
     Сбор данных (1)
