@@ -78,7 +78,8 @@ Attention-only models (3)
 
 Эволюционные архитектуры 
 Evolving Architectures NEAT (3) 
-Genetic Algorithms for NN (3) Neuroevolution (3)
+Genetic Algorithms for NN (3) 
+Neuroevolution (3)
 
 Углубление
 
