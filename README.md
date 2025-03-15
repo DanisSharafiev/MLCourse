@@ -40,9 +40,40 @@ CatBoost (2)
 Voting (2) 
 Blending (3)
 
-Снижение размерности (Dimensionality Reduction) PCA (1) SVD (2) t-SNE (2) UMAP (3)
+Снижение размерности (Dimensionality Reduction) 
+PCA (1) 
+SVD (2) 
+t-SNE (2) 
+UMAP (3)
 
-Перцептрон (Perceptron) Perceptron (1) Adaline (1)
+Перцептрон (Perceptron) 
+Perceptron (1) 
+Adaline (1)
+
+Глубокое обучение (Deep Learning)
+
+Нейронные сети 
+Сверточные нейронные сети (CNN) (2) 
+Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2) 
+Двунаправленные RNN (Bidirectional RNN) (3) 
+Полносвязные нейронные сети (FNN) (2) 
+Автоэнкодеры (Autoencoder) (3) 
+Вариационные автоэнкодеры (Variational Autoencoder) (3) 
+Остаточные сети (Residual Networks) (3) 
+Сеть СИАМ (Siamese Network) (3) 
+Памятные сети (Memory Networks) (3) 
+Машина Больцмана (Boltzmann Machine) (3) 
+Сеть Хопфилда (Hopfield Networks) (3) 
+Глубокая сеть убеждений (Deep Belief Network) (3) 
+GANs (Generative Adversarial Networks) (3) 
+Reinforcement Learning Networks (DQN) (3) 
+Graph Neural Networks (GNN) (3)
+
+Трансформеры и последовательности Трансформеры (Encoder, Decoder, Attention) (3) Seq2Seq (3) Встраивания (Embeddings) (2) BERT и варианты (3) Attention-only models (3)
+
+Эволюционные архитектуры Evolving Architectures NEAT (3) Genetic Algorithms for NN (3) Neuroevolution (3)
+
+Углубление
 
 Обработка естественного языка (NLP - Natural Language Processing) Bag of Words (BoW) (1) TF-IDF (Term Frequency-Inverse Document Frequency) (1) Word Embeddings (Word2Vec, GloVe) (2) N-grams (2) Latent Dirichlet Allocation (LDA) (2) Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3) Sentiment Analysis с Naive Bayes (2)
 
@@ -50,13 +81,6 @@ Blending (3)
 
 Усиленное обучение (RL - Reinforcement Learning) Q-Learning (2) SARSA (2) Deep Q-Networks (DQN) (3) Policy Gradient Methods (3) Actor-Critic Methods (3)
 
-Глубокое обучение (Deep Learning)
-
-Нейронные сети Сверточные нейронные сети (CNN) (2) Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2) Двунаправленные RNN (Bidirectional RNN) (3) Полносвязные нейронные сети (FNN) (2) Автоэнкодеры (Autoencoder) (3) Вариационные автоэнкодеры (Variational Autoencoder) (3) Остаточные сети (Residual Networks) (3) Сеть СИАМ (Siamese Network) (3) Памятьные сети (Memory Networks) (3) Машина Больцмана (Boltzmann Machine) (3) Сеть Хопфилда (Hopfield Networks) (3) Глубокая сеть убеждений (Deep Belief Network) (3) GANs (Generative Adversarial Networks) (3) Reinforcement Learning Networks (DQN) (3) Graph Neural Networks (GNN) (3)
-
-Трансформеры и последовательности Трансформеры (Encoder, Decoder, Attention) (3) Seq2Seq (3) Встраивания (Embeddings) (2) BERT и варианты (3) Attention-only models (3)
-
-Эволюционные архитектуры Evolving Architectures NEAT (3) Genetic Algorithms for NN (3) Neuroevolution (3)
 ## Сбор данных
 	Источник данных (1)
     Сбор данных (1)
