@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
+                "file": "Сбор данных/Сбор данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как выбрать алгоритм"
+              "title": "Сбор данных"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
+                "file": "Сбор данных/Сбор данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Как выбрать алгоритм"
+              "title": "Backlinks for Сбор данных"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
+                "file": "Сбор данных/Сбор данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Как выбрать алгоритм"
+              "title": "Outgoing links from Сбор данных"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
+                "file": "Сбор данных/Сбор данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Как выбрать алгоритм"
+              "title": "Outline of Сбор данных"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Model Training/Выбор алгоритма/Модели/Linear regression.md",
     "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
+    "Сбор данных/Сбор данных.md",
+    "Сбор данных",
+    "Model Training/Выбор алгоритма/Модели/Linear regression.md",
     "README.md",
     "Model Training/Выбор алгоритма/Модели",
     "Model Training/Выбор алгоритма",
