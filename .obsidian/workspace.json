@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration/Кэширование предсказаний (3).md",
+                "file": "Testing/AB-тестирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кэширование предсказаний (3)"
+              "title": "AB-тестирование"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Integration/Версионирование моделей (3).md",
+    "Testing/Stress Testing (3).md",
+    "Testing/AB-тестирование.md",
+    "Testing/Integration Testing (1).md",
+    "Testing/Unit Testing (2).md",
     "Integration/Кэширование предсказаний (3).md",
+    "Integration/Версионирование моделей (3).md",
     "Integration/Обработка исключений (2).md",
     "Integration/Логика приложения (2).md",
     "Integration/Пайплайн предобработки (1).md",
@@ -202,10 +206,6 @@
     "Model Training/Оптимизация модели для ускорения инференса (3).md",
     "Model Training/Добавление baseline-модели (2).md",
     "Model Training/Кросс-валидация (2).md",
-    "Model Training/Обучение модели (1).md",
-    "Data spliting/Stratifying (2).md",
-    "Data spliting/Балансироввка классов (2).md",
-    "Data spliting/Деление данных (1).md",
     "Сбор данных"
   ]
 }
