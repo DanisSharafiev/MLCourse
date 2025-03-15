@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/Basic Models/Линейная регрессия.md",
+                "file": "Models/Basic Models/Перцептрон/Adaline (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Линейная регрессия"
+              "title": "Adaline (1)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 341.5
   },
   "right": {
     "id": "9984cf7d05093296",
@@ -171,41 +171,41 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "README.md",
-    "Models/Basic Models/Линейная регрессия.md",
-    "Models/Deep learning",
-    "Models/Basic Models",
-    "Models",
-    "Monitoring & Maintenance/Автоматический откат модели при падении метрик (3).md",
-    "Monitoring & Maintenance/Отслеживание аномалий (3).md",
-    "Monitoring & Maintenance/Мониторинг данных (3).md",
-    "Monitoring & Maintenance/Алерты (3).md",
-    "Monitoring & Maintenance/Обратная связь (3).md",
-    "Monitoring & Maintenance/Обновление модели (2).md",
-    "Monitoring & Maintenance/Мониторинг качества (2).md",
-    "Monitoring & Maintenance/Логирование (1).md",
-    "Deployment/Edge deployment (3).md",
-    "Deployment/Скейлинг (3).md",
-    "Deployment/CI CD настройка (2).md",
-    "Deployment/Облачный деплой (2).md",
-    "Deployment/Локальный деплой (1).md",
-    "Containerization/Docker Compose (2).md",
-    "Containerization/Сборка контейнера (1).md",
-    "Containerization/Создание DockerFile (1).md",
-    "Testing/AB-тестирование (3).md",
-    "Testing/Stress Testing (3).md",
-    "Testing/Integration Testing (1).md",
-    "Testing/Unit Testing (2).md",
-    "Integration/Кэширование предсказаний (3).md",
-    "Integration/Версионирование моделей (3).md",
-    "Integration/Обработка исключений (2).md",
-    "Integration/Логика приложения (2).md",
-    "Monitoring & Maintenance",
-    "Deployment",
-    "Containerization",
-    "Testing",
-    "Integration",
-    "Model Serialization",
-    "Model Tuning"
+    "Models/Basic Models/Перцептрон/Perceptron (1).md",
+    "Models/Basic Models/Перцептрон/Adaline (1).md",
+    "Models/Basic Models/Снижение размерности/UMAP (3).md",
+    "Models/Basic Models/Снижение размерности/t-SNE (2).md",
+    "Models/Basic Models/Снижение размерности/SVD (2).md",
+    "Models/Basic Models/Снижение размерности/PCA (1).md",
+    "Models/Basic Models/Ансамблевые методы/Blending (3).md",
+    "Models/Basic Models/Ансамблевые методы/Voting (2).md",
+    "Models/Basic Models/Ансамблевые методы/CatBoost (2).md",
+    "Models/Basic Models/Ансамблевые методы/LightGBM (2).md",
+    "Models/Basic Models/Ансамблевые методы/XGBoost (2).md",
+    "Models/Basic Models/Ансамблевые методы/Стеккинг (Stacking) (3).md",
+    "Models/Basic Models/Ансамблевые методы/AdaBoost (2).md",
+    "Models/Basic Models/Кластеризация/OPTICS (3).md",
+    "Models/Basic Models/Кластеризация/Affinity Propagation (3).md",
+    "Models/Basic Models/Кластеризация/Silhouette Clustering (3).md",
+    "Models/Basic Models/Кластеризация/Mean-Shift (2).md",
+    "Models/Basic Models/Кластеризация/DBSCAN (2).md",
+    "Models/Basic Models/Кластеризация/Иерархическая кластеризация (Hierarchical Clustering) (2).md",
+    "Models/Basic Models/Кластеризация/K-Means ++ (2).md",
+    "Models/Basic Models/Кластеризация/K-Means (1).md",
+    "Models/Basic Models/Классификация/Градиентный бустинг (GBDT) (2).md",
+    "Models/Basic Models/Классификация/QDA (Quadratic Discriminant Analysis) (2).md",
+    "Models/Basic Models/Классификация/Лагранжиан SVM (Lagrangian SVM) (3).md",
+    "Models/Basic Models/Классификация/Max-margin classification (2).md",
+    "Models/Basic Models/Классификация/Метод опорных векторов (SVM) (2).md",
+    "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
+    "Models/Углубление/Reinforcement Learning",
+    "Models/Углубление/CV (обработка изображений)",
+    "Models/Углубление/NLP (обработка языка)",
+    "Models/Углубление",
+    "Models/Deep learning/Эволюционные архитектуры",
+    "Models/Deep learning/Трансформеры и последовательности",
+    "Models/Deep learning/Нейронные сети",
+    "Models/Basic Models/Перцептрон",
+    "Models/Basic Models/Снижение размерности"
   ]
 }
