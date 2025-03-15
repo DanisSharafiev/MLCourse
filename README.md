@@ -2,88 +2,32 @@
 
 Лучше всего, если до изучения этого у вас есть базовые познания в линейной алгебре, возможно в математическом анализе и в статистике/теории вероятности.
 # Outline:
-### Базовые алгоритмы (расширенный список)
+Регрессия (Regression) 
+Линейная регрессия (1) Полиномиальная регрессия (1) Ridge + Lasso + Elastic Net (2) Байесовская регрессия (3) Регрессия по деревьям (2)
 
-#### Регрессия (Regression)
+Классификация (Classification) Наивный байес (Naive Bayes) (1) Gaussian Naive Bayes (1) Метод k-ближайших соседей (KNN) (1) Дерево решений классификатор и регрессия (Decision Tree Classifier and Regression) (1) Случайный лес классификатор и регрессия (Random Forest Classifier and Regression) (2) Метод опорных векторов (SVM) (2) Max-margin classification (2) Лагранжиан SVM (Lagrangian SVM) (3) QDA (Quadratic Discriminant Analysis) (2) Градиентный бустинг (GBDT) (2)
 
-- Линейная регрессия (1)
-- Полиномиальная регрессия (1)
-- Ridge + Lasso + Elastic Net (2)
-- Байесовская регрессия (3)
-- Регрессия по деревьям (2)
+Кластеризация (Clustering) K-Means (1) K-Means ++ (2) Иерархическая кластеризация (Hierarchical Clustering) (2) DBSCAN (2) Mean-Shift (2) Silhouette Clustering (3) Affinity Propagation (3) OPTICS (3)
 
-#### Классификация (Classification)
+Ансамблевые методы (Ensemble Methods) AdaBoost (2) Стеккинг (Stacking) (3) XGBoost (2) LightGBM (2) CatBoost (2) Voting (2) Blending (3)
 
-- Наивный байес (Naive Bayes) (1)
-- Gaussian Naive Bayes (1)
-- Метод k-ближайших соседей (KNN) (1)
-- Дерево решений классификатор и регрессия (Decision Tree Classifier and Regression) (1)
-- Случайный лес классификатор и регрессия (Random Forest Classifier and Regression) (2)
-- Метод опорных векторов (SVM) (2)
-- Max-margin classification (2)
-- Лагранжиан SVM (Lagrangian SVM) (3)
-- QDA (Quadratic Discriminant Analysis) (2)
-- Градиентный бустинг (GBDT) (2)
+Снижение размерности (Dimensionality Reduction) PCA (1) SVD (2) t-SNE (2) UMAP (3)
 
-#### Кластеризация (Clustering)
+Перцептрон (Perceptron) Perceptron (1) Adaline (1)
 
-- K-Means (1)
-- K-Means ++ (2)
-- Иерархическая кластеризация (Hierarchical Clustering) (2)
-- DBSCAN (2)
-- Mean-Shift (2)
-- Silhouette Clustering (3)
-- Affinity Propagation (3)
-- OPTICS (3)
+Обработка естественного языка (NLP - Natural Language Processing) Bag of Words (BoW) (1) TF-IDF (Term Frequency-Inverse Document Frequency) (1) Word Embeddings (Word2Vec, GloVe) (2) N-grams (2) Latent Dirichlet Allocation (LDA) (2) Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3) Sentiment Analysis с Naive Bayes (2)
 
-#### Ансамблевые методы (Ensemble Methods)
+Компьютерное зрение (CV - Computer Vision) Haar Cascades (1) Viola-Jones Algorithm (1) Edge Detection (Canny, Sobel) (1) HOG (Histogram of Oriented Gradients) (2) SIFT (Scale-Invariant Feature Transform) (2) SURF (Speeded-Up Robust Features) (2)
 
-- AdaBoost (2)
-- Стеккинг (Stacking) (3)
-- XGBoost (2)
-- LightGBM (2)
-- CatBoost (2)
-- Voting (2)
-- Blending (3)
+Усиленное обучение (RL - Reinforcement Learning) Q-Learning (2) SARSA (2) Deep Q-Networks (DQN) (3) Policy Gradient Methods (3) Actor-Critic Methods (3)
 
-#### Снижение размерности (Dimensionality Reduction)
+Глубокое обучение (Deep Learning)
 
-- PCA (1)
-- SVD (2)
-- t-SNE (2)
-- UMAP (3)
+Нейронные сети Сверточные нейронные сети (CNN) (2) Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2) Двунаправленные RNN (Bidirectional RNN) (3) Полносвязные нейронные сети (FNN) (2) Автоэнкодеры (Autoencoder) (3) Вариационные автоэнкодеры (Variational Autoencoder) (3) Остаточные сети (Residual Networks) (3) Сеть СИАМ (Siamese Network) (3) Памятьные сети (Memory Networks) (3) Машина Больцмана (Boltzmann Machine) (3) Сеть Хопфилда (Hopfield Networks) (3) Глубокая сеть убеждений (Deep Belief Network) (3) GANs (Generative Adversarial Networks) (3) Reinforcement Learning Networks (DQN) (3) Graph Neural Networks (GNN) (3)
 
-#### Перцептрон (Perceptron)
+Трансформеры и последовательности Трансформеры (Encoder, Decoder, Attention) (3) Seq2Seq (3) Встраивания (Embeddings) (2) BERT и варианты (3) Attention-only models (3)
 
-- Perceptron (1)
-- Adaline (1)
-
-#### Обработка естественного языка (NLP - Natural Language Processing)
-
-- Bag of Words (BoW) (1)
-- TF-IDF (Term Frequency-Inverse Document Frequency) (1)
-- Word Embeddings (Word2Vec, GloVe) (2)
-- N-grams (2)
-- Latent Dirichlet Allocation (LDA) (2)
-- Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3)
-- Sentiment Analysis с Naive Bayes (2)
-
-#### Компьютерное зрение (CV - Computer Vision)
-
-- Haar Cascades (1)
-- HOG (Histogram of Oriented Gradients) (2)
-- SIFT (Scale-Invariant Feature Transform) (2)
-- SURF (Speeded-Up Robust Features) (2)
-- Viola-Jones Algorithm (1)
-- Edge Detection (Canny, Sobel) (1)
-
-#### Усиленное обучение (RL - Reinforcement Learning)
-
-- Q-Learning (2)
-- SARSA (2)
-- Deep Q-Networks (DQN) (3)
-- Policy Gradient Methods (3)
-- Actor-Critic Methods (3)
+Эволюционные архитектуры Evolving Architectures NEAT (3) Genetic Algorithms for NN (3) Neuroevolution (3)
 ## Сбор данных
 	Источник данных (1)
     Сбор данных (1)
