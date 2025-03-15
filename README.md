@@ -69,9 +69,16 @@ GANs (Generative Adversarial Networks) (3)
 Reinforcement Learning Networks (DQN) (3) 
 Graph Neural Networks (GNN) (3)
 
-Трансформеры и последовательности Трансформеры (Encoder, Decoder, Attention) (3) Seq2Seq (3) Встраивания (Embeddings) (2) BERT и варианты (3) Attention-only models (3)
+Трансформеры и последовательности 
+Трансформеры (Encoder, Decoder, Attention) (3) 
+Seq2Seq (3) 
+Встраивания (Embeddings) (2) 
+BERT и варианты (3) 
+Attention-only models (3)
 
-Эволюционные архитектуры Evolving Architectures NEAT (3) Genetic Algorithms for NN (3) Neuroevolution (3)
+Эволюционные архитектуры 
+Evolving Architectures NEAT (3) 
+Genetic Algorithms for NN (3) Neuroevolution (3)
 
 Углубление
 
