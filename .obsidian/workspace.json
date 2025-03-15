@@ -169,10 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80da1cd35a733f9e",
+  "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Models/Untitled.md",
+    "Models/База/Loss Functions (1).md",
     "README.md",
+    "Models/База",
+    "Models/Untitled.md",
     "Models/Углубление/Reinforcement Learning/Actor-Critic Methods (3).md",
     "Models/Углубление/Reinforcement Learning/Policy Gradient Methods (3).md",
     "Models/Углубление/Reinforcement Learning/Deep Q-Networks (DQN) (3).md",
@@ -196,7 +198,6 @@
     "Models/Deep learning/Эволюционные архитектуры/Evolving Architectures NEAT (3).md",
     "Models/Deep learning/Трансформеры и последовательности/Attention-only models (3).md",
     "Models/Deep learning/Трансформеры и последовательности/BERT и варианты (3).md",
-    "Models/Deep learning/Трансформеры и последовательности/Встраивания (Embeddings) (2).md",
     "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
     "Models/Углубление/Reinforcement Learning",
     "Models/Углубление/CV (обработка изображений)",
@@ -205,7 +206,6 @@
     "Models/Deep learning/Эволюционные архитектуры",
     "Models/Deep learning/Трансформеры и последовательности",
     "Models/Deep learning/Нейронные сети",
-    "Models/Basic Models/Перцептрон",
-    "Models/Basic Models/Снижение размерности"
+    "Models/Basic Models/Перцептрон"
   ]
 }

@@ -5,7 +5,7 @@
 ## Модели
 
 ## База
-	Loss functions ()
+	Loss functions (1)
 	Градиентный спуск (Gradient descent) (1) 
 	Backpropagation (1) 
 	Оптимизация (2) 
