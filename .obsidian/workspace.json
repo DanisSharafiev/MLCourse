@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/База/Метод Ньютона (3).md",
+                "file": "Models/База/Квази-Ньютоновские методы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Метод Ньютона (3)"
+              "title": "Квази-Ньютоновские методы"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Models/База/Метод Ньютона (3).md",
     "Models/База/Градиентный спуск (Gradient descent) (1).md",
     "Models/База/Адаптивные методы оптимизации (3).md",
     "Models/База/Golden section (2).md",
@@ -179,7 +180,6 @@
     "Models/База/Learning Rate Scheduling (2).md",
     "Models/База/Batch Normalization (2).md",
     "Models/База/Квази-Ньютоновские методы.md",
-    "Models/База/Метод Ньютона (3).md",
     "Models/База/Функции активации (2).md",
     "README.md",
     "Models/База/Backpropagation (1).md",
