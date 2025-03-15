@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/База/Bisection (2).md",
+                "file": "Models/База/Метод Ньютона (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bisection (2)"
+              "title": "Метод Ньютона (3)"
             }
           }
         ]
@@ -171,15 +171,16 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Models/База/Weight Initialization (3).md",
+    "Models/База/Градиентный спуск (Gradient descent) (1).md",
+    "Models/База/Адаптивные методы оптимизации (3).md",
+    "Models/База/Golden section (2).md",
     "Models/База/Bisection (2).md",
+    "Models/База/Weight Initialization (3).md",
     "Models/База/Learning Rate Scheduling (2).md",
     "Models/База/Batch Normalization (2).md",
-    "Models/База/Адаптивные методы оптимизации.md",
     "Models/База/Квази-Ньютоновские методы.md",
     "Models/База/Метод Ньютона (3).md",
     "Models/База/Функции активации (2).md",
-    "Models/База/Градиентный спуск (Gradient descent) (1).md",
     "README.md",
     "Models/База/Backpropagation (1).md",
     "Models/База/Loss Functions (1).md",
@@ -197,7 +198,6 @@
     "Models/Углубление/CV (обработка изображений)/Viola-Jones Algorithm (1).md",
     "Models/Углубление/CV (обработка изображений)/Haar Cascades (1).md",
     "Models/Углубление/NLP (обработка языка)/Sentiment Analysis с Naive Bayes (2).md",
-    "Models/Углубление/NLP (обработка языка)/Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3).md",
     "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
     "Models/Углубление/Reinforcement Learning",
     "Models/Углубление/CV (обработка изображений)",
