@@ -17,6 +17,8 @@
 	Batch Normalization (2) 
 	Learning Rate Scheduling (2) 
 	Weight Initialization (Xavier, He) (3)
+	Bisection (2)
+	Golden section(2)
 ### Базовые алгоритмы
 #### Регрессия (Regression) 
 	Линейная регрессия (1) 
