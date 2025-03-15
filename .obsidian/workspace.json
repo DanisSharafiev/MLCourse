@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/Углубление/Reinforcement Learning/Actor-Critic Methods (3).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actor-Critic Methods (3)"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Models/Углубление/Reinforcement Learning/Policy Gradient Methods (3).md",
     "Models/Углубление/Reinforcement Learning/Actor-Critic Methods (3).md",
+    "Models/Углубление/Reinforcement Learning/Policy Gradient Methods (3).md",
     "Models/Углубление/Reinforcement Learning/Deep Q-Networks (DQN) (3).md",
     "Models/Углубление/Reinforcement Learning/SARSA (2).md",
     "Models/Углубление/Reinforcement Learning/Q-Learning (2).md",

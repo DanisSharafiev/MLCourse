@@ -2,8 +2,13 @@
 
 Лучше всего, если до изучения этого у вас есть базовые познания в линейной алгебре, возможно в математическом анализе и в статистике/теории вероятности.
 # Outline:
-## Базовые алгоритмы
-### Регрессия (Regression) 
+## Модели
+
+## База
+Градиентный спуск (Gradient descent) (1)
+Backpropagation (1)
+### Базовые алгоритмы
+#### Регрессия (Regression) 
 	Линейная регрессия (1) 
 	Полиномиальная регрессия (1) 
 	Ridge + Lasso + Elastic Net (2) 
@@ -12,7 +17,7 @@
 	Дерево решений регрессор (Decision Tree) (1) 
 	Случайный лес регрессор (Random Forest) (2) 
 
-### Классификация (Classification) 
+#### Классификация (Classification) 
 	Наивный байес (Naive Bayes) (1) 
 	Gaussian Naive Bayes (1) 
 	Метод k-ближайших соседей (KNN) (1) 
@@ -24,7 +29,7 @@
 	QDA (Quadratic Discriminant Analysis) (2) 
 	Градиентный бустинг (GBDT) (2)
 
-### Кластеризация (Clustering) 
+#### Кластеризация (Clustering) 
 	K-Means (1) 
 	K-Means ++ (2) 
 	Иерархическая кластеризация (Hierarchical Clustering) (2) 
@@ -34,7 +39,7 @@
 	Affinity Propagation (3) 
 	OPTICS (3)
 
-### Ансамблевые методы (Ensemble Methods) 
+#### Ансамблевые методы (Ensemble Methods) 
 	AdaBoost (2) 
 	Стеккинг (Stacking) (3) 
 	XGBoost (2) 
@@ -43,19 +48,19 @@
 	Voting (2) 
 	Blending (3)
 
-### Снижение размерности (Dimensionality Reduction) 
+#### Снижение размерности (Dimensionality Reduction) 
 	PCA (1) 
 	SVD (2) 
 	t-SNE (2) 
 	UMAP (3)
 
-### Перцептрон (Perceptron) 
+#### Перцептрон (Perceptron) 
 	Perceptron (1) 
 	Adaline (1)
 
-## Глубокое обучение (Deep Learning)
+### Глубокое обучение (Deep Learning)
 
-### Нейронные сети 
+#### Нейронные сети 
 	Сверточные нейронные сети (CNN) (2) 
 	Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2) 
 	Двунаправленные RNN (Bidirectional RNN) (3) 
@@ -72,14 +77,14 @@
 	Reinforcement Learning Networks (DQN) (3) 
 	Graph Neural Networks (GNN) (3)
 
-### Трансформеры и последовательности 
+#### Трансформеры и последовательности 
 	Трансформеры (Encoder, Decoder, Attention) (3) 
 	Seq2Seq (3) 
 	Встраивания (Embeddings) (2) 
 	BERT и варианты (3) 
 	Attention-only models (3)
 
-### Эволюционные архитектуры 
+#### Эволюционные архитектуры 
 	Evolving Architectures NEAT (3) 
 	Genetic Algorithms for NN (3) 
 	Neuroevolution (3)
