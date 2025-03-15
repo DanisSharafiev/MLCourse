@@ -92,9 +92,20 @@ Latent Dirichlet Allocation (LDA) (2)
 Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3) 
 Sentiment Analysis с Naive Bayes (2)
 
-Компьютерное зрение (CV - Computer Vision) Haar Cascades (1) Viola-Jones Algorithm (1) Edge Detection (Canny, Sobel) (1) HOG (Histogram of Oriented Gradients) (2) SIFT (Scale-Invariant Feature Transform) (2) SURF (Speeded-Up Robust Features) (2)
+Компьютерное зрение (CV - Computer Vision) 
+Haar Cascades (1) 
+Viola-Jones Algorithm (1) 
+Edge Detection (Canny, Sobel) (1) 
+HOG (Histogram of Oriented Gradients) (2) 
+SIFT (Scale-Invariant Feature Transform) (2) 
+SURF (Speeded-Up Robust Features) (2)
 
-Усиленное обучение (RL - Reinforcement Learning) Q-Learning (2) SARSA (2) Deep Q-Networks (DQN) (3) Policy Gradient Methods (3) Actor-Critic Methods (3)
+Усиленное обучение (RL - Reinforcement Learning) 
+Q-Learning (2) 
+SARSA (2) 
+Deep Q-Networks (DQN) (3) 
+Policy Gradient Methods (3) 
+Actor-Critic Methods (3)
 
 ## Сбор данных
 	Источник данных (1)
