@@ -5,16 +5,18 @@
 ## Модели
 
 ## База
-Градиентный спуск (Gradient descent) (1) 
-Backpropagation (1) 
-Оптимизация (2) 
-Стохастический градиентный спуск (SGD) (2) 
-Функции активации (ReLU, Sigmoid, Tanh) (2) 
-Метод Ньютона (3) 
-Квази-Ньютоновские методы (BFGS) (3) 
-Адаптивные методы оптимизации (Adam, RMSprop) (3) 
-Batch Normalization (2) 
-Learning Rate Scheduling (2) Weight Initialization (Xavier, He) (3)
+	Loss-functions
+	Градиентный спуск (Gradient descent) (1) 
+	Backpropagation (1) 
+	Оптимизация (2) 
+	Стохастический градиентный спуск (SGD) (2) 
+	Функции активации (ReLU, Sigmoid, Tanh) (2) 
+	Метод Ньютона (3) 
+	Квази-Ньютоновские методы (BFGS) (3) 
+	Адаптивные методы оптимизации (Adam, RMSprop) (3) 
+	Batch Normalization (2) 
+	Learning Rate Scheduling (2) 
+	Weight Initialization (Xavier, He) (3)
 ### Базовые алгоритмы
 #### Регрессия (Regression) 
 	Линейная регрессия (1) 
