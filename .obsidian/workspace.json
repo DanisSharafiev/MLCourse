@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Training/Автоматизация выбора модели (3).md",
+                "file": "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Автоматизация выбора модели (3)"
+              "title": "Анализ ошибок на основе explainability tools (3)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Training/Автоматизация выбора модели (3).md",
+                "file": "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Автоматизация выбора модели (3)"
+              "title": "Backlinks for Анализ ошибок на основе explainability tools (3)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Training/Автоматизация выбора модели (3).md",
+                "file": "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Автоматизация выбора модели (3)"
+              "title": "Outgoing links from Анализ ошибок на основе explainability tools (3)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model Training/Автоматизация выбора модели (3).md",
+                "file": "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Автоматизация выбора модели (3)"
+              "title": "Outline of Анализ ошибок на основе explainability tools (3)"
             }
           }
         ]
@@ -171,8 +171,15 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Model Training/Оптимизация модели для ускорения инференса (3).md",
+    "Model Evaluation/Confidence intervals для метрик (3).md",
+    "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
+    "Model Evaluation/Анализ важности признаков (2).md",
+    "Model Evaluation/Анализ ошибок (2).md",
+    "Model Evaluation/Оценка на тестовой выборке (1).md",
+    "Model Evaluation/Использование метрик (1)",
     "Model Training/Автоматизация выбора модели (3).md",
+    "Model Evaluation",
+    "Model Training/Оптимизация модели для ускорения инференса (3).md",
     "Model Training/Добавление baseline-модели (2).md",
     "Model Training/Кросс-валидация (2).md",
     "Model Training/Обучение модели (1).md",
@@ -192,11 +199,6 @@
     "Data Wrangling/Работа с большими данными (Bigdata) (3).md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
     "Data Wrangling/Интеграция данных (2).md",
-    "Data Wrangling/Удаление дубликатов (1).md",
-    "Data Wrangling/Преобразование типов (1).md",
-    "Data Wrangling/Удаление выбросов (1).md",
-    "Data Wrangling/Очистка пропусков (1).md",
-    "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Сбор данных",
     "Model Training/Выбор алгоритма/Модели",
     "Model Training/Выбор алгоритма",
@@ -204,7 +206,6 @@
     "Data spliting",
     "Model Training",
     "Feature Engineering",
-    "Explanatory Data Analysis",
-    "New Текстовый документ.txt"
+    "Explanatory Data Analysis"
   ]
 }
