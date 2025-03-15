@@ -169,8 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Monitoring & Maintenance",
+    "Deployment",
+    "Containerization",
+    "Testing",
+    "Integration",
+    "Model Serialization",
+    "Model Tuning",
     "Model Evaluation/Confidence intervals для метрик (3).md",
     "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
     "Model Evaluation/Анализ важности признаков (2).md",
@@ -198,14 +205,7 @@
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Data Wrangling/Работа с большими данными (Bigdata) (3).md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
-    "Data Wrangling/Интеграция данных (2).md",
     "Сбор данных",
-    "Model Training/Выбор алгоритма/Модели",
-    "Model Training/Выбор алгоритма",
-    "Data Wrangling",
-    "Data spliting",
-    "Model Training",
-    "Feature Engineering",
-    "Explanatory Data Analysis"
+    "Model Training/Выбор алгоритма/Модели"
   ]
 }
