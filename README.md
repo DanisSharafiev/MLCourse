@@ -83,7 +83,14 @@ Neuroevolution (3)
 
 Углубление
 
-Обработка естественного языка (NLP - Natural Language Processing) Bag of Words (BoW) (1) TF-IDF (Term Frequency-Inverse Document Frequency) (1) Word Embeddings (Word2Vec, GloVe) (2) N-grams (2) Latent Dirichlet Allocation (LDA) (2) Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3) Sentiment Analysis с Naive Bayes (2)
+Обработка естественного языка (NLP - Natural Language Processing) 
+Bag of Words (BoW) (1) 
+TF-IDF (Term Frequency-Inverse Document Frequency) (1) 
+Word Embeddings (Word2Vec, GloVe) (2) 
+N-grams (2) 
+Latent Dirichlet Allocation (LDA) (2) 
+Named Entity Recognition (NER) с CRF (Conditional Random Fields) (3) 
+Sentiment Analysis с Naive Bayes (2)
 
 Компьютерное зрение (CV - Computer Vision) Haar Cascades (1) Viola-Jones Algorithm (1) Edge Detection (Canny, Sobel) (1) HOG (Histogram of Oriented Gradients) (2) SIFT (Scale-Invariant Feature Transform) (2) SURF (Speeded-Up Robust Features) (2)
 
