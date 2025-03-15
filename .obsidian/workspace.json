@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сбор данных/Сбор данных.md",
+                "file": "Сбор данных/Валидация данных при сборе.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сбор данных"
+              "title": "Валидация данных при сборе"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сбор данных/Сбор данных.md",
+                "file": "Сбор данных/Валидация данных при сборе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сбор данных"
+              "title": "Backlinks for Валидация данных при сборе"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сбор данных/Сбор данных.md",
+                "file": "Сбор данных/Валидация данных при сборе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Сбор данных"
+              "title": "Outgoing links from Валидация данных при сборе"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сбор данных/Сбор данных.md",
+                "file": "Сбор данных/Валидация данных при сборе.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сбор данных"
+              "title": "Outline of Валидация данных при сборе"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Сбор данных/Сбор данных (1).md",
+    "Сбор данных/Валидация данных при сборе.md",
     "Model Training/Выбор алгоритма/Как выбрать алгоритм.md",
-    "Сбор данных/Сбор данных.md",
     "Сбор данных",
     "Model Training/Выбор алгоритма/Модели/Linear regression.md",
     "README.md",
