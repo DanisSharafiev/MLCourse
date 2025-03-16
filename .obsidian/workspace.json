@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сбор данных/Источник данных (1).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Источник данных (1)"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Сбор данных/Сбор данных (1).md",
     "Сбор данных/Источник данных (1).md",
+    "Сбор данных/Сбор данных (1).md",
     "Сбор данных/Синтетические данные (2).md",
     "README.md",
     "Data spliting/Деление данных (1).md",
