@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сбор данных/Сбор данных (1).md",
+                "file": "Model Evaluation/Использование метрик (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сбор данных (1)"
+              "title": "Использование метрик (1)"
             }
           }
         ]
@@ -169,13 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Metrics",
+    "Models/Basic Models/Снижение размерности/PCA (1).md",
+    "Model Evaluation/Использование метрик (1).md",
+    "Model Evaluation/Использование метрик (1)/Untitled",
+    "Model Training/Выбор алгоритма.md",
+    "Сбор данных/Сбор данных (1).md",
     "Сбор данных/Источник данных (1).md",
     "Сбор данных/Валидация данных при сборе (1).md",
-    "Сбор данных/Сбор данных (1).md",
-    "README.md",
     "Сбор данных/Синтетические данные (2).md",
+    "README.md",
     "Data spliting/Деление данных (1).md",
     "Data spliting/Балансироввка классов (2).md",
     "Images/image.png",
@@ -198,17 +203,12 @@
     "Models/Untitled.md",
     "Models/Углубление/Reinforcement Learning/Actor-Critic Methods (3).md",
     "Models/Углубление/Reinforcement Learning/Policy Gradient Methods (3).md",
-    "Models/Углубление/Reinforcement Learning/Deep Q-Networks (DQN) (3).md",
-    "Models/Углубление/Reinforcement Learning/SARSA (2).md",
-    "Models/Углубление/Reinforcement Learning/Q-Learning (2).md",
-    "Models/Углубление/CV (обработка изображений)/SURF (Speeded-Up Robust Features) (2).md",
     "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
     "Models/Углубление/Reinforcement Learning",
     "Models/Углубление/CV (обработка изображений)",
     "Models/Углубление/NLP (обработка языка)",
     "Models/Углубление",
     "Models/Deep learning/Эволюционные архитектуры",
-    "Models/Deep learning/Трансформеры и последовательности",
-    "Models/Deep learning/Нейронные сети"
+    "Models/Deep learning/Трансформеры и последовательности"
   ]
 }
