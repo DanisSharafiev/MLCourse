@@ -171,6 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Images/1.png",
+    "Explanatory Data Analysis/Обзор данных (1).md",
+    "Images (Not part of education)",
     "Explanatory Data Analysis/Визуализация распределений (1).md",
     "Сбор данных/Валидация данных при сборе (1).md",
     "Сбор данных/Источник данных (1).md",
@@ -201,14 +204,11 @@
     "{E6263FEA-F08B-41AD-BEDE-D07B54BC0ABA}.png",
     "Models/База/Квази-Ньютоновские методы (3).md",
     "Images",
-    "Models/База/Метод Ньютона (3).md",
-    "Models/База/Градиентный спуск (Gradient descent) (1).md",
     "Models/База",
     "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
     "Models/Углубление/Reinforcement Learning",
     "Models/Углубление/CV (обработка изображений)",
     "Models/Углубление/NLP (обработка языка)",
-    "Models/Углубление",
-    "Models/Deep learning/Эволюционные архитектуры"
+    "Models/Углубление"
   ]
 }
