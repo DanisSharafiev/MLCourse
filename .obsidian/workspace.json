@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Визуализация (1).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Визуализация (1)"
+              "title": "README"
             }
           }
         ]
@@ -171,11 +171,14 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Explanatory Data Analysis/Анализ временных рядов (3).md",
+    "Data Wrangling/Фильтрация по релевантности (2).md",
+    "Data Wrangling/Удаление дубликатов (1).md",
+    "Explanatory Data Analysis/Визуализация (1).md",
     "Images/10.png",
     "Images/9.png",
     "Images/Pasted image 20250318110829.png",
     "Images/8.png",
-    "Explanatory Data Analysis/Визуализация (1).md",
     "Images/7.png",
     "Images/6.png",
     "Images/5.png",
@@ -186,7 +189,6 @@
     "README.md",
     "Explanatory Data Analysis/Поиск выбросов (1).md",
     "Explanatory Data Analysis/Проверка пропусков (1).md",
-    "Images/1.png",
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
     "Сбор данных/Валидация данных при сборе (1).md",
@@ -208,8 +210,6 @@
     "Metrics",
     "Models/Basic Models/Снижение размерности/PCA (1).md",
     "Model Evaluation/Использование метрик (1)/Untitled",
-    "Model Training/Выбор алгоритма.md",
-    "Data spliting/Деление данных (1).md",
     "Images",
     "Models/База",
     "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
