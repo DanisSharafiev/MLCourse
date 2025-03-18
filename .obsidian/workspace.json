@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Wrangling/Удаление выбросов (1).md",
+                "file": "Data Wrangling/Очистка пропусков (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Удаление выбросов (1)"
+              "title": "Очистка пропусков (1)"
             }
           }
         ]
@@ -171,9 +171,12 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
     "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
+    "Data Wrangling/Очистка пропусков (1).md",
+    "Data Wrangling/Преобразование типов (1).md",
+    "Data Wrangling/Удаление выбросов (1) +-.md",
     "Data Wrangling/Удаление дубликатов (1) +-.md",
-    "Data Wrangling/Удаление выбросов (1).md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
     "Сбор данных/Валидация данных при сборе (1) +.md",
     "Сбор данных/Источник данных (1) +.md",
@@ -183,7 +186,6 @@
     "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Explanatory Data Analysis/Визуализация (1) +-.md",
     "Explanatory Data Analysis/Обзор данных (1) +-.md",
-    "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1).md",
     "Feature Engineering/Математические преобразования (1).md",
     "Feature Engineering/Нормализация и масштабирование (1).md",
@@ -203,11 +205,9 @@
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
-    "Data Wrangling/Очистка пропусков (1).md",
     "Data Wrangling/Интеграция данных (2).md",
     "Models/Deep learning/Нейронные сети/Сверточные нейронные сети (CNN) (2).md",
     "Models/Deep learning/Нейронные сети/Graph Neural Networks (GNN) (3).md",
-    "Models/Deep learning/Нейронные сети/GANs (Generative Adversarial Networks) (3).md",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
