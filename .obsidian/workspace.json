@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data spliting/Деление данных (1).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Деление данных (1)"
+              "title": "README"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Data spliting/Деление данных (1).md",
+    "Data spliting/Балансироввка классов (2).md",
     "README.md",
     "Сбор данных/Синтетические данные (2).md",
     "Explanatory Data Analysis/Анализ сезонности (3) +-.md",
@@ -196,8 +198,6 @@
     "Data Wrangling/Очистка пропусков (1) +-.md",
     "Images/13.png",
     "Data Wrangling/Преобразование типов (1) +-.md",
-    "Data Wrangling/Удаление выбросов (1) +-.md",
-    "Data Wrangling/Удаление дубликатов (1) +-.md",
     "Images/12.png",
     "Images/11.png",
     "Images/Outliers.png",
