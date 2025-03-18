@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Explanatory Data Analysis/Поиск выбросов (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Поиск выбросов (1)"
             }
           }
         ]
@@ -169,12 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Images/Outliers.png",
+    "Explanatory Data Analysis/Визуализация (1).md",
+    "Explanatory Data Analysis/Обзор данных (1).md",
+    "README.md",
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
     "Data Wrangling/Удаление дубликатов (1).md",
-    "Explanatory Data Analysis/Визуализация (1).md",
     "Images/10.png",
     "Images/9.png",
     "Images/Pasted image 20250318110829.png",
@@ -184,9 +187,7 @@
     "Images/5.png",
     "Images/4.png",
     "Images/3.png",
-    "Explanatory Data Analysis/Обзор данных (1).md",
     "Images/2.png",
-    "README.md",
     "Explanatory Data Analysis/Поиск выбросов (1).md",
     "Explanatory Data Analysis/Проверка пропусков (1).md",
     "Explanatory Data Analysis/Описательная статистика (1).md",
@@ -208,7 +209,6 @@
     "Models/Deep learning/Нейронные сети/Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2).md",
     "Model Evaluation/Использование метрик (1).md",
     "Metrics",
-    "Models/Basic Models/Снижение размерности/PCA (1).md",
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
     "Models/База",
