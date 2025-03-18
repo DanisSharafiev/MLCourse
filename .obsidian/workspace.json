@@ -169,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Images/13.png",
     "Data Wrangling/Очистка пропусков (1) +-.md",
     "Data Wrangling/Преобразование типов (1) +-.md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
@@ -207,7 +208,6 @@
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Data Wrangling/Интеграция данных (2).md",
     "Models/Deep learning/Нейронные сети/Сверточные нейронные сети (CNN) (2).md",
-    "Models/Deep learning/Нейронные сети/Graph Neural Networks (GNN) (3).md",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
