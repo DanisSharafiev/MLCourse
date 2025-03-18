@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Wrangling/Фильтрация по релевантности (2).md",
+                "file": "Data Wrangling/Интеграция данных (2) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фильтрация по релевантности (2)"
+              "title": "Интеграция данных (2) +-"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Data Wrangling/Очистка пропусков (1) +-.md",
+    "Data Wrangling/Фильтрация по релевантности (2).md",
     "Data Wrangling/Интеграция данных (2) +-.md",
     "Images/13.png",
-    "Data Wrangling/Очистка пропусков (1) +-.md",
     "Data Wrangling/Преобразование типов (1) +-.md",
-    "Data Wrangling/Фильтрация по релевантности (2).md",
     "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
     "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
     "Data Wrangling/Удаление выбросов (1) +-.md",
