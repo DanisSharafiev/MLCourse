@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Проверка пропусков (1).md",
+                "file": "Data Wrangling/Удаление дубликатов (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверка пропусков (1)"
+              "title": "Удаление дубликатов (1)"
             }
           }
         ]
@@ -171,23 +171,27 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Data Wrangling/Фильтрация по релевантности (2).md",
+    "Сбор данных/Валидация данных при сборе (1) +.md",
+    "Сбор данных/Источник данных (1) +.md",
+    "Сбор данных/Сбор данных (1) +.md",
+    "Сбор данных/Синтетические данные (2).md",
+    "Data Wrangling/Удаление дубликатов (1).md",
+    "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
+    "Explanatory Data Analysis/Анализ сезонности (3).md",
+    "Explanatory Data Analysis/Визуализация (1) +-.md",
+    "Explanatory Data Analysis/Обзор данных (1) +-.md",
+    "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
+    "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1).md",
-    "Feature Engineering/Нормализация и масштабирование (1).md",
     "Feature Engineering/Математические преобразования (1).md",
+    "Feature Engineering/Нормализация и масштабирование (1).md",
     "Explanatory Data Analysis/Feature importance (3).md",
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
-    "Explanatory Data Analysis/Анализ зависимостей (2).md",
-    "Explanatory Data Analysis/Визуализация (1).md",
-    "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Images/12.png",
     "Images/11.png",
-    "Explanatory Data Analysis/Обзор данных (1).md",
-    "Explanatory Data Analysis/Поиск выбросов (1).md",
-    "Explanatory Data Analysis/Проверка пропусков (1).md",
     "README.md",
     "Images/Outliers.png",
-    "Data Wrangling/Фильтрация по релевантности (2).md",
-    "Data Wrangling/Удаление дубликатов (1).md",
     "Images/10.png",
     "Images/9.png",
     "Images/Pasted image 20250318110829.png",
@@ -197,10 +201,6 @@
     "Images/5.png",
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
-    "Сбор данных/Валидация данных при сборе (1).md",
-    "Сбор данных/Источник данных (1).md",
-    "Сбор данных/Сбор данных (1).md",
-    "Сбор данных/Синтетические данные (2).md",
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Data Wrangling/Очистка пропусков (1).md",
     "Data Wrangling/Интеграция данных (2).md",
