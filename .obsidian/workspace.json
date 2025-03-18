@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Извлечение данных из дат (2).md",
+                "file": "Feature Engineering/Бинаризация (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Извлечение данных из дат (2)"
+              "title": "Бинаризация (2)"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Извлечение данных из дат (2) +-.md",
     "Feature Engineering/Математические преобразования (1) +-.md",
     "Feature Engineering/Полиномиальные признаки (3).md",
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1) +-.md",
-    "Feature Engineering/Извлечение данных из дат (2).md",
     "Feature Engineering/Бинаризация (2).md",
     "Feature Engineering/Агрегация (2).md",
     "Feature Engineering/Feature Selection (2).md",
