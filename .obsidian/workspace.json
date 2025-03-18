@@ -169,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Images/12.png",
+    "Images/11.png",
     "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Explanatory Data Analysis/Визуализация (1).md",
     "Explanatory Data Analysis/Обзор данных (1).md",
@@ -190,7 +192,6 @@
     "Images/6.png",
     "Images/5.png",
     "Images/4.png",
-    "Images/3.png",
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
     "Сбор данных/Валидация данных при сборе (1).md",
@@ -207,7 +208,6 @@
     "Models/Deep learning/Нейронные сети/Остаточные сети (Residual Networks) (3).md",
     "Models/Deep learning/Нейронные сети/Памятные сети (Memory Networks) (3).md",
     "Models/Deep learning/Нейронные сети/Полносвязные нейронные сети (FNN) (2).md",
-    "Models/Deep learning/Нейронные сети/Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2).md",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
