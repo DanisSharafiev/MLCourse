@@ -171,8 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Data Wrangling/Удаление выбросов (1).md",
     "Data Wrangling/Удаление дубликатов (1) +-.md",
+    "Data Wrangling/Удаление выбросов (1).md",
+    "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
     "Сбор данных/Валидация данных при сборе (1) +.md",
     "Сбор данных/Источник данных (1) +.md",
@@ -182,7 +183,6 @@
     "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Explanatory Data Analysis/Визуализация (1) +-.md",
     "Explanatory Data Analysis/Обзор данных (1) +-.md",
-    "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
     "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1).md",
     "Feature Engineering/Математические преобразования (1).md",
