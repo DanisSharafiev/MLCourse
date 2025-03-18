@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Анализ зависимостей (2).md",
+                "file": "Feature Engineering/Нормализация и масштабирование (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ зависимостей (2)"
+              "title": "Нормализация и масштабирование (1)"
             }
           }
         ]
@@ -169,19 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80da1cd35a733f9e",
+  "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Математические преобразования (1).md",
+    "Explanatory Data Analysis/Feature importance (3).md",
+    "Explanatory Data Analysis/Анализ временных рядов (3).md",
+    "Explanatory Data Analysis/Анализ зависимостей (2).md",
+    "Explanatory Data Analysis/Визуализация (1).md",
+    "Explanatory Data Analysis/Анализ сезонности (3).md",
     "Images/12.png",
     "Images/11.png",
-    "Explanatory Data Analysis/Анализ сезонности (3).md",
-    "Explanatory Data Analysis/Визуализация (1).md",
     "Explanatory Data Analysis/Обзор данных (1).md",
     "Explanatory Data Analysis/Поиск выбросов (1).md",
     "Explanatory Data Analysis/Проверка пропусков (1).md",
     "README.md",
-    "Explanatory Data Analysis/Анализ зависимостей (2).md",
     "Images/Outliers.png",
-    "Explanatory Data Analysis/Анализ временных рядов (3).md",
     "Data Wrangling/Фильтрация по релевантности (2).md",
     "Data Wrangling/Удаление дубликатов (1).md",
     "Images/10.png",
@@ -191,14 +193,12 @@
     "Images/7.png",
     "Images/6.png",
     "Images/5.png",
-    "Images/4.png",
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
     "Сбор данных/Валидация данных при сборе (1).md",
     "Сбор данных/Источник данных (1).md",
     "Сбор данных/Сбор данных (1).md",
     "Сбор данных/Синтетические данные (2).md",
-    "Explanatory Data Analysis/Feature importance (3).md",
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Data Wrangling/Очистка пропусков (1).md",
     "Data Wrangling/Интеграция данных (2).md",
