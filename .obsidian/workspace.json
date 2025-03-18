@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Визуализация распределений (1).md",
+                "file": "Explanatory Data Analysis/Визуализация (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Визуализация распределений (1)"
+              "title": "Визуализация (1)"
             }
           }
         ]
@@ -172,14 +172,14 @@
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
     "Explanatory Data Analysis/Обзор данных (1).md",
+    "Explanatory Data Analysis/Визуализация (1).md",
+    "README.md",
     "Explanatory Data Analysis/Поиск выбросов (1).md",
-    "Explanatory Data Analysis/Визуализация распределений (1).md",
     "Explanatory Data Analysis/Проверка пропусков (1).md",
     "Images/1.png",
     "Images/image.png",
     "Images/{E6263FEA-F08B-41AD-BEDE-D07B54BC0ABA} 1.png",
     "Images/Pasted image 20250318020848.png",
-    "README.md",
     "Explanatory Data Analysis/Описательная статистика (1).md",
     "Images (Not part of education)",
     "Сбор данных/Валидация данных при сборе (1).md",
