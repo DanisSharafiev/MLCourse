@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Нормализация и масштабирование (1).md",
+                "file": "Explanatory Data Analysis/Проверка пропусков (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нормализация и масштабирование (1)"
+              "title": "Проверка пропусков (1)"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Кодирование категориальных данных (1).md",
+    "Feature Engineering/Нормализация и масштабирование (1).md",
     "Feature Engineering/Математические преобразования (1).md",
     "Explanatory Data Analysis/Feature importance (3).md",
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
@@ -206,8 +208,6 @@
     "Models/Deep learning/Нейронные сети/Graph Neural Networks (GNN) (3).md",
     "Models/Deep learning/Нейронные сети/GANs (Generative Adversarial Networks) (3).md",
     "Models/Deep learning/Нейронные сети/Остаточные сети (Residual Networks) (3).md",
-    "Models/Deep learning/Нейронные сети/Памятные сети (Memory Networks) (3).md",
-    "Models/Deep learning/Нейронные сети/Полносвязные нейронные сети (FNN) (2).md",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
