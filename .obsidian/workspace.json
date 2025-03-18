@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Анализ временных рядов (3).md",
+                "file": "Data spliting/Деление данных (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ временных рядов (3)"
+              "title": "Деление данных (1)"
             }
           }
         ]
@@ -171,13 +171,15 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
+    "README.md",
+    "Сбор данных/Синтетические данные (2).md",
     "Explanatory Data Analysis/Анализ сезонности (3) +-.md",
-    "Explanatory Data Analysis/Анализ временных рядов (3).md",
-    "Explanatory Data Analysis/Feature importance (3).md",
-    "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
-    "Feature Engineering/Полиномиальные признаки (3).md",
     "Feature Engineering/Эмбеддинги (3).md",
+    "Feature Engineering/Полиномиальные признаки (3).md",
+    "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
+    "Explanatory Data Analysis/Анализ временных рядов (3).md",
+    "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
+    "Explanatory Data Analysis/Feature importance (3).md",
     "Feature Engineering/Агрегация (2).md",
     "Feature Engineering/Бинаризация (2) +-.md",
     "Feature Engineering/Извлечение данных из дат (2) +-.md",
@@ -196,8 +198,6 @@
     "Data Wrangling/Преобразование типов (1) +-.md",
     "Data Wrangling/Удаление выбросов (1) +-.md",
     "Data Wrangling/Удаление дубликатов (1) +-.md",
-    "Сбор данных/Валидация данных при сборе (1) +.md",
-    "Сбор данных/Источник данных (1) +.md",
     "Images/12.png",
     "Images/11.png",
     "Images/Outliers.png",
