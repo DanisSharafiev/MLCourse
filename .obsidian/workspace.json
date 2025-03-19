@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Evaluation/Анализ важности признаков (2).md",
+                "file": "Model Serialization/Сохранение модели (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анализ важности признаков (2)"
+              "title": "Сохранение модели (1)"
             }
           }
         ]
@@ -171,12 +171,14 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
-    "Model Evaluation/Анализ ошибок (2).md",
     "Model Evaluation/Использование метрик (1).md",
     "Model Evaluation/Оценка на тестовой выборке (1).md",
-    "Model Evaluation/Анализ важности признаков (2).md",
+    "Model Serialization/Сохранение модели (1).md",
+    "Model Serialization/Сохранение препроцессинга (2).md",
     "Model Evaluation/Confidence intervals для метрик (3).md",
+    "Model Evaluation/Анализ важности признаков (2).md",
+    "Model Evaluation/Анализ ошибок (2).md",
+    "Model Evaluation/Анализ ошибок на основе explainability tools (3).md",
     "Model Tuning/Автоматизированный подбор гиперпараметров (3).md",
     "Model Tuning/Подбор гиперпараметров (2).md",
     "Model Training/Автоматизация выбора модели (3).md",
@@ -195,8 +197,6 @@
     "Feature Engineering/Полиномиальные признаки (3).md",
     "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
-    "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
-    "Explanatory Data Analysis/Feature importance (3).md",
     "Images/13.png",
     "Images/12.png",
     "Images/11.png",
