@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Training/Оптимизация модели для ускорения инференса (3).md",
+                "file": "Model Tuning/Автоматизированный подбор гиперпараметров (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оптимизация модели для ускорения инференса (3)"
+              "title": "Автоматизированный подбор гиперпараметров (3)"
             }
           }
         ]
@@ -171,12 +171,14 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Model Tuning/Подбор гиперпараметров (2).md",
+    "Model Tuning/Улучшение алгоритма (2).md",
     "Model Training/Обучение модели (1).md",
+    "Model Training/Оптимизация модели для ускорения инференса (3).md",
     "Model Training/Кросс-валидация (2).md",
     "Model Training/Добавление baseline-модели (2).md",
     "Model Training/Автоматизация выбора модели (3).md",
     "Model Training/Выбор алгоритма.md",
-    "Model Training/Оптимизация модели для ускорения инференса (3).md",
     "README.md",
     "Data spliting/Деление данных (1) +-.md",
     "Data spliting/Балансироввка классов (2).md",
@@ -195,8 +197,6 @@
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1) +-.md",
     "Feature Engineering/Feature Selection (2).md",
-    "Explanatory Data Analysis/Проверка пропусков (1) +-.md",
-    "Explanatory Data Analysis/Поиск выбросов (1) +-.md",
     "Images/13.png",
     "Images/12.png",
     "Images/11.png",
