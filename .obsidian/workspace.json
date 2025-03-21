@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metrics/Классификация.md",
+                "file": "Feature Engineering/Эмбеддинги (3) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Классификация"
+              "title": "Эмбеддинги (3) +-"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Metrics/Регрессия.md",
-    "Metrics/Классификация.md",
-    "Feature Engineering/Эмбеддинги (3).md",
+    "Metrics/Регрессия +-.md",
+    "Metrics/Классификация +-.md",
+    "Feature Engineering/Эмбеддинги (3) +-.md",
     "Feature Engineering/Полиномиальные признаки (3) +-.md",
     "Feature Engineering/Извлечение данных из дат (2) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1) +-.md",
