@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Feature Selection (2).md",
+                "file": "Feature Engineering/Эмбеддинги (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Selection (2)"
+              "title": "Эмбеддинги (3)"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Feature Engineering/Бинаризация (2) +-.md",
+    "Feature Engineering/Полиномиальные признаки (3).md",
+    "Feature Engineering/Эмбеддинги (3).md",
     "Feature Engineering/Извлечение данных из дат (2) +-.md",
+    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
+    "Feature Engineering/Feature Selection (2) +-.md",
+    "Feature Engineering/Бинаризация (2) +-.md",
     "Feature Engineering/Агрегация (2) +-.md",
-    "Feature Engineering/Feature Selection (2).md",
     "Feature Engineering/Математические преобразования (1) +-.md",
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
-    "Feature Engineering/Полиномиальные признаки (3).md",
-    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
     "README.md",
     "Model Serialization/Сохранение препроцессинга (2).md",
     "Model Training/Оптимизация модели для ускорения инференса (3).md",
@@ -196,7 +197,6 @@
     "Model Training/Добавление baseline-модели (2).md",
     "Model Training/Кросс-валидация (2).md",
     "Model Training/Обучение модели (1).md",
-    "Model Tuning/Улучшение алгоритма (2).md",
     "Images/13.png",
     "Images/12.png",
     "Images/11.png",

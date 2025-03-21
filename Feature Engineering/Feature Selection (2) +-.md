@@ -19,7 +19,7 @@ Embedded Methods
 ``` python
 from sklearn.linear_model import Lasso
 
-model = Lasso(alpha=0.01)  
+model = Lasso(alpha=0.01) 
 model.fit(X, y)
 important_features = X.columns[model.coef_ != 0] 
 ```
