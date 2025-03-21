@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Feature Engineering/Агрегация (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Агрегация (2)"
             }
           }
         ]
@@ -171,8 +171,15 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Model Serialization/Сохранение препроцессинга (2).md",
+    "Feature Engineering/Бинаризация (2) +-.md",
+    "Feature Engineering/Математические преобразования (1) +-.md",
+    "Feature Engineering/Нормализация и масштабирование (1) +-.md",
+    "Feature Engineering/Полиномиальные признаки (3).md",
+    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
+    "Feature Engineering/Извлечение данных из дат (2) +-.md",
+    "Feature Engineering/Агрегация (2).md",
     "README.md",
+    "Model Serialization/Сохранение препроцессинга (2).md",
     "Model Training/Оптимизация модели для ускорения инференса (3).md",
     "Model Serialization/Сохранение модели (1).md",
     "Model Evaluation/Использование метрик (1).md",
@@ -190,13 +197,6 @@
     "Model Training/Обучение модели (1).md",
     "Model Tuning/Улучшение алгоритма (2).md",
     "Data spliting/Деление данных (1) +-.md",
-    "Data spliting/Балансироввка классов (2).md",
-    "Сбор данных/Синтетические данные (2).md",
-    "Explanatory Data Analysis/Анализ сезонности (3) +-.md",
-    "Feature Engineering/Эмбеддинги (3).md",
-    "Feature Engineering/Полиномиальные признаки (3).md",
-    "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
-    "Explanatory Data Analysis/Анализ временных рядов (3).md",
     "Images/13.png",
     "Images/12.png",
     "Images/11.png",
