@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Полиномиальные признаки (3).md",
+                "file": "Feature Engineering/Эмбеддинги (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полиномиальные признаки (3)"
+              "title": "Эмбеддинги (3)"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Полиномиальные признаки (3) +-.md",
     "Feature Engineering/Эмбеддинги (3).md",
-    "Feature Engineering/Полиномиальные признаки (3).md",
     "Feature Engineering/Извлечение данных из дат (2) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1) +-.md",
     "Feature Engineering/Feature Selection (2) +-.md",
