@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Wrangling/Очистка пропусков (1) +-.md",
+                "file": "Data Wrangling/Преобразование типов (1) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Очистка пропусков (1) +-"
+              "title": "Преобразование типов (1) +-"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Data Wrangling/Очистка пропусков (1) +.md",
     "Data Wrangling/Фильтрация по релевантности (2) +-.md",
     "Feature Engineering/Feature Selection (2) +-.md",
     "Deployment/CI CD настройка (2).md",
@@ -189,7 +190,6 @@
     "Model Evaluation/Оценка на тестовой выборке (1) -.md",
     "README.md",
     "Data Wrangling/Интеграция данных (2) +-.md",
-    "Data Wrangling/Очистка пропусков (1) +-.md",
     "Data Wrangling/Преобразование типов (1) +-.md",
     "Data Wrangling/Удаление выбросов (1) +-.md",
     "Data Wrangling/Удаление дубликатов (1) +-.md",
