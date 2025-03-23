@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Кодирование категориальных данных (1) +-.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кодирование категориальных данных (1) +-"
+              "title": "README"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
+    "Feature Engineering/Извлечение данных из дат (2) +-.md",
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
     "Feature Engineering/Математические преобразования (1) +-.md",
-    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
     "Feature Engineering/Feature Selection (2) +-.md",
     "Data Wrangling/Преобразование типов (1) +.md",
     "Data Wrangling/Фильтрация по релевантности (3) +-.md",
@@ -196,7 +197,6 @@
     "Model Evaluation/Использование метрик (1) -.md",
     "Model Evaluation/Оценка на тестовой выборке (1) -.md",
     "README.md",
-    "Explanatory Data Analysis/Feature importance (3).md",
     "Images/14.png",
     "Images/13.png",
     "Images/12.png",
