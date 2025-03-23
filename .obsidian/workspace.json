@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explanatory Data Analysis/Проверка пропусков (1) +.md",
+                "file": "Data Wrangling/Фильтрация по релевантности (2) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проверка пропусков (1) +"
+              "title": "Фильтрация по релевантности (2) +-"
             }
           }
         ]
@@ -169,17 +169,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
-    "Explanatory Data Analysis/Поиск выбросов (1) +.md",
-    "Explanatory Data Analysis/Обзор данных (1) +.md",
-    "Explanatory Data Analysis/Визуализация (1) +.md",
-    "Explanatory Data Analysis/Анализ сезонности (3) +.md",
-    "Explanatory Data Analysis/Анализ зависимостей (2) +.md",
-    "Explanatory Data Analysis/Анализ временных рядов (3).md",
+    "Data Wrangling/Интеграция данных (2) +-.md",
+    "Data Wrangling/Очистка пропусков (1) +-.md",
+    "Data Wrangling/Преобразование типов (1) +-.md",
+    "Data Wrangling/Удаление выбросов (1) +-.md",
+    "Data Wrangling/Удаление дубликатов (1) +-.md",
+    "Data Wrangling/Фильтрация по релевантности (2) +-.md",
     "Explanatory Data Analysis/Feature importance (3).md",
-    "Images/14.png",
+    "Explanatory Data Analysis/Анализ временных рядов (3).md",
+    "Explanatory Data Analysis/Анализ зависимостей (2) +.md",
+    "Explanatory Data Analysis/Анализ сезонности (3) +.md",
+    "Explanatory Data Analysis/Визуализация (1) +.md",
+    "Explanatory Data Analysis/Обзор данных (1) +.md",
+    "Explanatory Data Analysis/Поиск выбросов (1) +.md",
     "Explanatory Data Analysis/Проверка пропусков (1) +.md",
+    "Images/14.png",
     "README.md",
     "Сбор данных/Сбор данных (1) +.md",
     "Model Serialization/Сохранение препроцессинга (2).md",
@@ -192,11 +198,6 @@
     "Model Evaluation/Confidence intervals для метрик (3).md",
     "Feature Engineering/Эмбеддинги (3) +-.md",
     "Metrics/Регрессия +-.md",
-    "Metrics/Классификация +-.md",
-    "Feature Engineering/Полиномиальные признаки (3) +-.md",
-    "Feature Engineering/Извлечение данных из дат (2) +-.md",
-    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
-    "Feature Engineering/Feature Selection (2) +-.md",
     "Images/13.png",
     "Images/12.png",
     "Images/11.png",
