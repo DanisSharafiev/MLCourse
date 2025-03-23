@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Feature Selection (2) +-.md",
+                "file": "Data Wrangling/Очистка пропусков (1) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Selection (2) +-"
+              "title": "Очистка пропусков (1) +-"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Data Wrangling/Фильтрация по релевантности (2) +-.md",
+    "Feature Engineering/Feature Selection (2) +-.md",
     "Deployment/CI CD настройка (2).md",
     "Integration/Версионирование моделей (3).md",
     "Integration/Итеграция в код (API) + Инференс (1).md",
@@ -186,7 +188,6 @@
     "Model Evaluation/Использование метрик (1) -.md",
     "Model Evaluation/Оценка на тестовой выборке (1) -.md",
     "README.md",
-    "Data Wrangling/Фильтрация по релевантности (2) +-.md",
     "Data Wrangling/Интеграция данных (2) +-.md",
     "Data Wrangling/Очистка пропусков (1) +-.md",
     "Data Wrangling/Преобразование типов (1) +-.md",
@@ -196,7 +197,6 @@
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
     "Explanatory Data Analysis/Анализ зависимостей (2) +.md",
     "Explanatory Data Analysis/Анализ сезонности (3) +.md",
-    "Explanatory Data Analysis/Визуализация (1) +.md",
     "Images/14.png",
     "Images/13.png",
     "Images/12.png",
