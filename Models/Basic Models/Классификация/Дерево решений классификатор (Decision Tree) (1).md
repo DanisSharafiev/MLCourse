@@ -1,0 +1,5 @@
+Верхушка дерева (С условием) называется Root node или же The root.
+Остальные условия называют Branches или или Internal nodes.
+Все, что принимает результат - Leaves or Leaf nodes.
+
+
