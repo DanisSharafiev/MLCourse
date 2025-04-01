@@ -13,7 +13,8 @@
 | Yes           | Yes        | 38  | Yes               |
 | Yes           | No         | 50  | No                |
 | No            | No         | 83  | No                |
-# Decision Tree
+
+
 
 ```mermaid
 graph TD
@@ -23,4 +24,6 @@ graph TD
     B -->|No| E[3]
     C -->|Yes| F[2]
     C -->|No| G[1]
+```    
+
 
