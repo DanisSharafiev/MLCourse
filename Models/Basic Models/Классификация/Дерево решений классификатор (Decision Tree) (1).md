@@ -27,3 +27,25 @@ graph TD
 ```    
 
 
+```mermaid
+graph TD
+    A[Soda] -->|True| B[Cool As Ice]
+    A -->|False| C[Cool As Ice]
+    B -->|Yes| D[3]
+    B -->|No| E[1]
+    C -->|Yes| F[0]
+    C -->|No| G[3]
+```    
+
+Impure - если смесь Yes и No у одного Leaf, допустим 3/1 это impure, 0/3 - нет.
+
+Gini impurity один из самых популярных, но еще есть Entropy, Information Gain.
+
+$\text{Gini impurity for a Leaf} = 1 - \text{(probability of "Yes")}^{2} - \text{(probability of "No")}^{2}$
+
+$Gini = 1-\left( \frac{1}{1+3} \right)^{2} - (\frac{3}{1+3})^{2}$
+
+$\text{Total gini impurity = weighted average of gini impurities for the Leaves}$
+$\text{Total gini} = \left( \frac{4}{4+3} \right)0.375 + (\frac{3}{4+3})0.444$
+
+For numeric we find 
