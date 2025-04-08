@@ -14,7 +14,7 @@
 
 [Хороший пример](https://www.youtube.com/watch?v=Q8TXgCzxEnw&embeds_widget_referrer=https%3A%2F%2Fmedium.com%2F&embeds_referring_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_referring_origin=https%3A%2F%2Fcdn.embedly.com&source_ve_path=OTY3MTQ)
 
-# **Constraints** или Ограничения
+# Constraints или Ограничения
 
 Концепция ограничений нужна, чтобы упростить интерфейс. Они объясняют что может быть сделано с их помощью.
 
@@ -26,7 +26,7 @@
 
 # Mapping (Соотношение?)
 
-Mapping показывает доступное и понятное взаимоотношения объектов и результаты над их использованием.
+Mapping показывает доступное и понятное взаимоотношения объектов и результаты после их использования.
 
 Пример:
 ![Stove tops](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/stovetops.png)
@@ -36,6 +36,8 @@ Mapping показывает доступное и понятное взаимо
 Сюда же можно отнести слайдеры (указывал уже их сверху).
 
 # Consistency
+
+Consistency указывает на то, что схожие задачи выполняются с использованием схожих операций и элементов в интерфейсе и на разных устройствах, из-за чего взаимодействие становится интуитивным и удобным для пользователя.
 
 
 
