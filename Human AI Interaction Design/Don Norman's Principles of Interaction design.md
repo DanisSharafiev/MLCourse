@@ -14,6 +14,8 @@
 
 [Хороший пример](https://www.youtube.com/watch?v=Q8TXgCzxEnw&embeds_widget_referrer=https%3A%2F%2Fmedium.com%2F&embeds_referring_euri=https%3A%2F%2Fcdn.embedly.com%2F&embeds_referring_origin=https%3A%2F%2Fcdn.embedly.com&source_ve_path=OTY3MTQ)
 
+# **Constraints** или Ограничения
+
 
 
 
