@@ -4,7 +4,7 @@
 
 Пример: 
 
-![Image alt](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/randomsiteexample.png)
+![Random site](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/randomsiteexample.png)
 
 Здесь наглядно видно, что крупные компании массово переходили от burger menu к tab-bar menu т.к. интуитивно легче и понятнее как этим пользоваться и удобнее.
 
@@ -29,7 +29,7 @@
 Mapping показывает доступное и понятное взаимоотношения объектов и результаты над их использованием.
 
 Пример:
-![Image alt](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/stovetops.png)
+![Stove tops](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/stovetops.png)
 
 Здесь наглядно видно, что правая плита намного проще для понимания принципа работы, чем левая.
 
