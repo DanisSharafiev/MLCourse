@@ -35,6 +35,10 @@ Mapping показывает доступное и понятное взаимо
 
 Сюда же можно отнести слайдеры (указывал уже их сверху).
 
+# Consistency
+
+
+
 ---
 Source:
 https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33
