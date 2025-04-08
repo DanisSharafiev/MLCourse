@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
+                "file": "Human AI Interaction Design/Design processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don Norman's Principles of Interaction design"
+              "title": "Design processes"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Images/doors.png",
+    "Images/usercentered.png",
+    "Human AI Interaction Design/Design processes.md",
+    "Images/Pasted image 20250409004534.png",
+    "Images/DesignThinkingProcess.png",
     "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
+    "Images/doors.png",
     "Images/stovetops.png",
     "Images/poorcons.png",
     "Images/1.png",
@@ -201,12 +205,8 @@
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
     "Explanatory Data Analysis/Поиск выбросов (1) +.md",
     "Feature Engineering/Бинаризация (2) +-.md",
-    "Feature Engineering/Полиномиальные признаки (3) +-.md",
     "Images/14.png",
     "Images/13.png",
-    "Images/12.png",
-    "Images/11.png",
-    "Images/Outliers.png",
     "Images (Not part of education)",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
