@@ -1,6 +1,6 @@
 # Design Thinking Process
 
-Направлено на разработку проблем пользователя.
+Направлено на разработку проблем.
 
 ![Design Thinking](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/DesignThinkingProcess.png)
 
