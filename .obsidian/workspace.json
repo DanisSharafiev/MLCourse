@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Integration 6 left/Логика приложения (2).md",
+                "file": "10 Integration 6 left/Обработка исключений (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логика приложения (2)"
+              "title": "Обработка исключений (2)"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "10 Integration 6 left/Кэширование предсказаний (3) LATER.md",
     "10 Integration 6 left/Логика приложения (2).md",
-    "11 Testing 4 left/Integration Testing (1).md",
-    "11 Testing 4 left/AB-тестирование (1).md",
-    "10 Integration 6 left/Версионирование моделей (3).md",
+    "10 Integration 6 left/Кэширование предсказаний (3) LATER.md",
     "10 Integration 6 left/Итеграция в код (API) + Инференс (1).md",
     "10 Integration 6 left/Обработка исключений (2).md",
+    "10 Integration 6 left/Версионирование моделей (3).md",
+    "11 Testing 4 left/Integration Testing (1).md",
+    "11 Testing 4 left/AB-тестирование (1).md",
     "10 Integration 6 left/Пайплайн предобработки (1).md",
     "09 Model Serialization 2 left/Сохранение препроцессинга (2).md",
     "09 Model Serialization 2 left/Сохранение модели (1).md",
