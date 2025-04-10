@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Математические преобразования (1) +-.md",
+                "file": "Integration/Пайплайн предобработки (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математические преобразования (1) +-"
+              "title": "Пайплайн предобработки (1)"
             }
           }
         ]
@@ -169,20 +169,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
+    "Integration/Обработка исключений (2).md",
+    "Integration/Логика приложения (2).md",
+    "Integration/Кэширование предсказаний (3).md",
+    "Integration/Итеграция в код (API) + Инференс (1).md",
+    "Integration/Версионирование моделей (3).md",
+    "Feature Engineering/Feature Selection (2) +-.md",
+    "Feature Engineering/Извлечение данных из дат (2) +.md",
+    "Feature Engineering/Pipeline creation (2) -.md",
+    "Feature Engineering/Эмбеддинги (3) +-.md",
+    "Feature Engineering/Полиномиальные признаки (3) +-.md",
+    "Feature Engineering/Нормализация и масштабирование (1) +.md",
+    "Feature Engineering/Математические преобразования (1) +.md",
     "Feature Engineering/Кодирование категориальных данных (1) +.md",
     "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
     "Human AI Interaction Design/External patterns.md",
-    "Feature Engineering/Математические преобразования (1) +-.md",
-    "Feature Engineering/Feature Selection (2) +-.md",
-    "Feature Engineering/Извлечение данных из дат (2) +.md",
-    "Feature Engineering/Полиномиальные признаки (3) +-.md",
-    "Feature Engineering/Нормализация и масштабирование (1) +.md",
-    "Feature Engineering/Pipeline creation (2).md",
     "Feature Engineering/Агрегация (2) +.md",
     "Feature Engineering/Бинаризация (2) +.md",
-    "Feature Engineering/Эмбеддинги (3) +-.md",
     "Monitoring & Maintenance/Автоматический откат модели при падении метрик (3).md",
     "Monitoring & Maintenance/Алерты (3).md",
     "Monitoring & Maintenance/Логирование (1).md",
@@ -192,10 +197,6 @@
     "Monitoring & Maintenance/Обратная связь (3).md",
     "Metrics/Классификация -.md",
     "Explanatory Data Analysis/Анализ сезонности (3) +.md",
-    "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
-    "Explanatory Data Analysis/Анализ временных рядов (3).md",
-    "Explanatory Data Analysis/Feature importance (3) +.md",
-    "Human AI Interaction Design/Design processes.md",
     "Images/spotifyblend.png",
     "Images/spotify.png",
     "Human AI Interaction Design/Untitled",
@@ -207,7 +208,6 @@
     "Images/poorcons.png",
     "Images/1.png",
     "Images/randomsiteexample.png",
-    "Explanatory Data Analysis/Визуализация (1) +.md",
     "Human AI Interaction Design",
     "Images (Not part of education)",
     "Metrics",
