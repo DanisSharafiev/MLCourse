@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring & Maintenance/Автоматический откат модели при падении метрик (3).md",
+                "file": "Feature Engineering/Нормализация и масштабирование (1) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Автоматический откат модели при падении метрик (3)"
+              "title": "Нормализация и масштабирование (1) +-"
             }
           }
         ]
@@ -169,8 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80da1cd35a733f9e",
+  "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "Feature Engineering/Математические преобразования (1) +-.md",
+    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
+    "Feature Engineering/Feature Selection (2) +-.md",
+    "Feature Engineering/Агрегация (2) +.md",
+    "Feature Engineering/Бинаризация (2) +.md",
+    "Feature Engineering/Извлечение данных из дат (2) +.md",
+    "Feature Engineering/Нормализация и масштабирование (1) +-.md",
+    "Feature Engineering/Полиномиальные признаки (3) +-.md",
+    "Feature Engineering/Эмбеддинги (3) +-.md",
+    "Monitoring & Maintenance/Автоматический откат модели при падении метрик (3).md",
     "Monitoring & Maintenance/Алерты (3).md",
     "Monitoring & Maintenance/Логирование (1).md",
     "Monitoring & Maintenance/Мониторинг данных (3).md",
@@ -178,15 +188,6 @@
     "Monitoring & Maintenance/Обновление модели (2).md",
     "Monitoring & Maintenance/Обратная связь (3).md",
     "Metrics/Классификация -.md",
-    "Feature Engineering/Нормализация и масштабирование (1) +-.md",
-    "Feature Engineering/Математические преобразования (1) +-.md",
-    "Feature Engineering/Кодирование категориальных данных (1) +-.md",
-    "Feature Engineering/Извлечение данных из дат (2) +.md",
-    "Feature Engineering/Бинаризация (2) +.md",
-    "Feature Engineering/Агрегация (2) +.md",
-    "Feature Engineering/Эмбеддинги (3) +-.md",
-    "Feature Engineering/Полиномиальные признаки (3) +-.md",
-    "Feature Engineering/Feature Selection (2) +-.md",
     "Explanatory Data Analysis/Анализ сезонности (3) +.md",
     "Explanatory Data Analysis/Анализ зависимостей (2) +-.md",
     "Explanatory Data Analysis/Анализ временных рядов (3).md",
@@ -208,7 +209,6 @@
     "Explanatory Data Analysis/Визуализация (1) +.md",
     "Human AI Interaction Design",
     "Explanatory Data Analysis/Обзор данных (1) +.md",
-    "Models/Basic Models/Классификация/Дерево решений классификатор (Decision Tree) (1).md",
     "Images (Not part of education)",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
