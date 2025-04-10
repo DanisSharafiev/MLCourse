@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Integration 6 left/Логика приложения (2).md",
+                "file": "10 Integration 6 left/Кэширование предсказаний (3) LATER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логика приложения (2)"
+              "title": "Кэширование предсказаний (3) LATER"
             }
           }
         ]
@@ -172,10 +172,11 @@
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
     "10 Integration 6 left/Обработка исключений (2).md",
-    "10 Integration 6 left/Логика приложения (2).md",
     "10 Integration 6 left/Кэширование предсказаний (3) LATER.md",
     "10 Integration 6 left/Итеграция в код (API) + Инференс (1).md",
     "10 Integration 6 left/Версионирование моделей (3).md",
+    "README.md",
+    "10 Integration 6 left/Логика приложения (2).md",
     "11 Testing 4 left/Integration Testing (1).md",
     "11 Testing 4 left/AB-тестирование (1).md",
     "10 Integration 6 left/Пайплайн предобработки (1).md",
@@ -196,7 +197,6 @@
     "06 Model Training 6 left/Добавление baseline-модели (2) +-.md",
     "06 Model Training 6 left/Выбор алгоритма (1).md",
     "06 Model Training 6 left/Автоматизация выбора модели (3).md",
-    "05 Data spliting 1 left/Деление данных (1) +-.md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
