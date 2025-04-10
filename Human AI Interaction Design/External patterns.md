@@ -19,6 +19,8 @@
 
 ![Spotify](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/spotify.png)
 
+Нужно предоставлять нейтральные и простые надписи (чтобы разобрался любой человек), но не слишком углубляться или быть слишком поверхностным.
+
 # Confidence
 
 # Limitations
