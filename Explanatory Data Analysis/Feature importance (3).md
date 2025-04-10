@@ -47,14 +47,14 @@ attributions это `tensor([[ 0.1234, -0.5678,  0.9101, -0.1121,  0.3141]])`, �
 Супер простой пример:
 ``` python
 from sklearn.linear_model import LinearRegression
-from sklearn.datasets import load_boston
+from sklearn.datasets import load_iris
 
-data = load_boston()
+data = load_iris()
 X = data.data
 y = data.target
 
 model = LinearRegression()
-model.fit(X_train, y_train)
+model.fit(X, y)
 
 coefficients = model.coef_
 ```
