@@ -14,5 +14,19 @@
 - Для каждого дерева вычисляется важность признаков на основе уменьшения ошибки.
 - Итоговая важность признака — это среднее значение по всем деревьям.
 
+Покажу как обычно получают в виде кода (Но скорее абстрактно, опущу ненужное для примера):
+``` python
+from xgboost import XGBClassifier
+from sklearn.datasets import load_iris
+
+data = load_iris()
+X = data.data
+y = data.target
+
+model = XGBClassifier()
+model.fit(X, y)
+
+
+```
 
 perm importance neural networks
