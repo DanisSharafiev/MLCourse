@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human AI Interaction Design/External patterns.md",
+                "file": "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "External patterns"
+              "title": "Don Norman's Principles of Interaction design"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "Images/spotifyblend.png",
-    "Human AI Interaction Design/External patterns.md",
-    "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
-    "Images/spotify.png",
     "Human AI Interaction Design/Design processes.md",
+    "Human AI Interaction Design/Don Norman's Principles of Interaction design.md",
+    "Human AI Interaction Design/External patterns.md",
+    "Images/spotifyblend.png",
+    "Images/spotify.png",
     "Human AI Interaction Design/Untitled",
     "Images/usercentered.png",
     "Images/Pasted image 20250409004534.png",

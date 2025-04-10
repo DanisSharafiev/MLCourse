@@ -29,8 +29,4 @@ Confidence это мера достоверности (определеннос�
 
 ![spotifyblend](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/spotifyblend.png)
 
-# Limitations
-
-
-
-# Calibration
+95% Taste match примерно позволяет пользователю понять как получилось это число, на чем основывается.
