@@ -26,7 +26,8 @@ y = data.target
 model = XGBClassifier()
 model.fit(X, y)
 
-
+importances = model.feature_importances_
 ```
+
 
 perm importance neural networks
