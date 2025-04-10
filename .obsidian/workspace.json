@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Engineering/Нормализация и масштабирование (1) +-.md",
+                "file": "Monitoring & Maintenance/Автоматический откат модели при падении метрик (3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Нормализация и масштабирование (1) +-"
+              "title": "Автоматический откат модели при падении метрик (3)"
             }
           }
         ]
@@ -169,10 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
-    "Feature Engineering/Математические преобразования (1) +-.md",
+    "Monitoring & Maintenance/Алерты (3).md",
+    "Monitoring & Maintenance/Логирование (1).md",
+    "Monitoring & Maintenance/Мониторинг данных (3).md",
+    "Monitoring & Maintenance/Мониторинг качества (2).md",
+    "Monitoring & Maintenance/Обновление модели (2).md",
+    "Monitoring & Maintenance/Обратная связь (3).md",
+    "Metrics/Классификация -.md",
     "Feature Engineering/Нормализация и масштабирование (1) +-.md",
+    "Feature Engineering/Математические преобразования (1) +-.md",
     "Feature Engineering/Кодирование категориальных данных (1) +-.md",
     "Feature Engineering/Извлечение данных из дат (2) +.md",
     "Feature Engineering/Бинаризация (2) +.md",
@@ -202,13 +209,6 @@
     "Human AI Interaction Design",
     "Explanatory Data Analysis/Обзор данных (1) +.md",
     "Models/Basic Models/Классификация/Дерево решений классификатор (Decision Tree) (1).md",
-    "Models/Basic Models/Регрессия/Дерево решений регрессор (Decision Tree) (1).md",
-    "Сбор данных/Сбор данных (1) +.md",
-    "Data Wrangling/Удаление дубликатов (1) +.md",
-    "Data Wrangling/Фильтрация по релевантности (3) +-.md",
-    "Data Wrangling/Преобразование типов (1) +.md",
-    "Data Wrangling/Очистка пропусков (1) +.md",
-    "Data Wrangling/Генерация новых признаков из внешних данных (3).md",
     "Images (Not part of education)",
     "Metrics",
     "Model Evaluation/Использование метрик (1)/Untitled",
