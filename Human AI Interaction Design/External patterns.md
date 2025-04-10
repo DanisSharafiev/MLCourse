@@ -15,7 +15,9 @@
 
 # Attribution
 
+Различные текстовые вставки с объяснением, почему что-то сработало именно определенным образом. Приведу в пример Spotify. Когда предлагают список альбомов, обычно подписывается с чем это связано.
 
+![Spotify](https://raw.githubusercontent.com/DanisSharafiev/MLCourse/refs/heads/main/Images/spotify.png)
 
 # Confidence
 
