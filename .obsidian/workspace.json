@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
+                "file": "04 Feature Engineering 4 left/Эмбеддинги (3) +-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALL IN ONE (временно)"
+              "title": "Эмбеддинги (3) +-"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "00 База/Models/Углубление/NLP (обработка языка)/Стемминг и Лемматизация.md",
     "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
+    "00 База/Models/Углубление/NLP (обработка языка)/Стемминг и Лемматизация.md",
     "00 База/Models/Углубление/NLP (обработка языка)/TF-IDF и BM25 (1).md",
     "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
     "09 Model Serialization 2 left/Сохранение препроцессинга (2).md",
