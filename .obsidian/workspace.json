@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Models/Углубление/NLP (обработка языка)/TF-IDF и BM25 (1).md",
+                "file": "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TF-IDF и BM25 (1)"
+              "title": "ALL IN ONE (временно)"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Models/Углубление/NLP (обработка языка)/Стемминг и Лемматизация.md",
+    "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
+    "00 База/Models/Углубление/NLP (обработка языка)/TF-IDF и BM25 (1).md",
     "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
     "09 Model Serialization 2 left/Сохранение препроцессинга (2).md",
     "10 Integration 6 left/Версионирование моделей (3).md",
@@ -194,9 +197,6 @@
     "07 Model Evaluation 6 left/Анализ важности признаков (2) -.md",
     "06 Model Training 6 left/Оптимизация модели для ускорения инференса (3).md",
     "06 Model Training 6 left/Обучение модели (1).md",
-    "06 Model Training 6 left/Кросс-валидация (2).md",
-    "06 Model Training 6 left/Добавление baseline-модели (2) +-.md",
-    "06 Model Training 6 left/Выбор алгоритма (1).md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
