@@ -15,3 +15,8 @@ $$TF-IDF(t,d,D) = TF(t,d) * IDF(t, D)$$
 ### BM25
 
 Разработана для систем ранжирования документов по поиску
+
+$$
+\text{BM25}(Q, D) = \sum_{i=1}^{n} \text{IDF}(q_i) \cdot \frac{\text{TF}(q_i, D) \cdot (k_1 + 1)}{\text{TF}(q_i, D) + k_1 \cdot \left(1 - b + b \cdot \frac{|D|}{\text{avgdl}}\right)}
+
+$$
