@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Feature Engineering 4 left/Эмбеддинги (3) +-.md",
+                "file": "00 База/Подготовка к собесам.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Эмбеддинги (3) +-"
+              "title": "Подготовка к собесам"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "04 Feature Engineering 4 left/Эмбеддинги (3) +-.md",
+    "00 База/Подготовка к собесам.md",
     "04 Feature Engineering 4 left/Нормализация и масштабирование (1) +.md",
     "04 Feature Engineering 4 left/Математические преобразования (1) +.md",
     "06 Model Training 6 left/Выбор алгоритма (1).md",
@@ -188,7 +190,6 @@
     "03 Data Wrangling 4 left/Очистка пропусков (1) +.md",
     "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
     "04 Feature Engineering 4 left/Pipeline creation (2) -.md",
-    "04 Feature Engineering 4 left/Эмбеддинги (3) +-.md",
     "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
     "00 База/Models/Углубление/NLP (обработка языка)/Стемминг и Лемматизация.md",
     "00 База/Models/Углубление/NLP (обработка языка)/TF-IDF и BM25 (1).md",
@@ -196,7 +197,6 @@
     "09 Model Serialization 2 left/Сохранение препроцессинга (2).md",
     "10 Integration 6 left/Версионирование моделей (3).md",
     "10 Integration 6 left/Итеграция в код (API) + Инференс (1).md",
-    "10 Integration 6 left/Кэширование предсказаний (3) LATER.md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
