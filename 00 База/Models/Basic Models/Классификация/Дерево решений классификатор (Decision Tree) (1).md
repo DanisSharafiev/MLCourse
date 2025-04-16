@@ -48,4 +48,3 @@ $Gini = 1-\left( \frac{1}{1+3} \right)^{2} - (\frac{3}{1+3})^{2}$
 $\text{Total gini impurity = weighted average of gini impurities for the Leaves}$
 $\text{Total gini} = \left( \frac{4}{4+3} \right)0.375 + (\frac{3}{4+3})0.444$
 
-For numeric we find 
