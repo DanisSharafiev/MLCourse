@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Набор джентельмена.md",
+                "file": "00 База/Вопросы к джентельмену.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Набор джентельмена"
+              "title": "Вопросы к джентельмену"
             }
           }
         ]
@@ -171,12 +171,13 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Набор джентельмена.md",
+    "00 База/Вопросы к джентельмену.md",
     "00 База/Metrics/Регрессия -.md",
     "00 База/Metrics/Классификация -.md",
     "04 Feature Engineering 4 left/Кодирование категориальных данных (1) +.md",
     "04 Feature Engineering 4 left/Математические преобразования (1) +.md",
     "04 Feature Engineering 4 left/Нормализация и масштабирование (1) +.md",
-    "00 База/Набор джентельмена.md",
     "06 Model Training 6 left/Выбор алгоритма (1).md",
     "06 Model Training 6 left/Автоматизация выбора модели (3).md",
     "README.md",
@@ -196,7 +197,6 @@
     "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
     "04 Feature Engineering 4 left/Pipeline creation (2) -.md",
     "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
-    "00 База/Models/Углубление/NLP (обработка языка)/Стемминг и Лемматизация.md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
