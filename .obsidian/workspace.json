@@ -171,6 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Набор джентельмена.md",
+    "00 База/Вопросы к джентельмену.md",
     "04 Feature Engineering 4 left/Математические преобразования (1) +.md",
     "04 Feature Engineering 4 left/Кодирование категориальных данных (1) +.md",
     "03 Data Wrangling 4 left/Преобразование типов (1) +.md",
@@ -195,8 +197,6 @@
     "07 Model Evaluation 6 left/Confidence intervals для метрик (3) -.md",
     "06 Model Training 6 left/Оптимизация модели для ускорения инференса (3).md",
     "06 Model Training 6 left/Обучение модели (1).md",
-    "06 Model Training 6 left/Выбор алгоритма (1).md",
-    "06 Model Training 6 left/Автоматизация выбора модели (3).md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
