@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Сбор данных 1 left/Сбор данных (1) +.md",
+                "file": "03 Data Wrangling 4 left/Преобразование типов (1) +.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сбор данных (1) +"
+              "title": "Преобразование типов (1) +"
             }
           }
         ]
@@ -169,16 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad58e05705a6b74",
+  "active": "80da1cd35a733f9e",
   "lastOpenFiles": [
-    "03 Data Wrangling 4 left/Фильтрация по релевантности (3) +-.md",
-    "03 Data Wrangling 4 left/Удаление дубликатов (1) +.md",
-    "03 Data Wrangling 4 left/Удаление выбросов (1) ++.md",
-    "03 Data Wrangling 4 left/Работа с большими данными (Bigdata) (3).md",
-    "03 Data Wrangling 4 left/Преобразование типов (1) +.md",
+    "03 Data Wrangling 4 left/Интеграция данных (2) +.md",
     "03 Data Wrangling 4 left/Очистка пропусков (1) +.md",
     "03 Data Wrangling 4 left/Генерация новых признаков из внешних данных (3).md",
-    "03 Data Wrangling 4 left/Интеграция данных (2) +.md",
+    "03 Data Wrangling 4 left/Удаление выбросов (1) ++.md",
+    "03 Data Wrangling 4 left/Удаление дубликатов (1) +.md",
+    "02 Explanatory Data Analysis 1 left/Проверка пропусков (1) +.md",
+    "02 Explanatory Data Analysis 1 left/Поиск выбросов (1) +.md",
+    "02 Explanatory Data Analysis 1 left/Обзор данных (1) +.md",
+    "01 Сбор данных 1 left/Сбор данных (1) +.md",
+    "03 Data Wrangling 4 left/Фильтрация по релевантности (3) +-.md",
+    "03 Data Wrangling 4 left/Работа с большими данными (Bigdata) (3).md",
+    "03 Data Wrangling 4 left/Преобразование типов (1) +.md",
     "00 База/Вопросы к джентельмену.md",
     "00 База/Набор джентельмена.md",
     "04 Feature Engineering 4 left/Математические преобразования (1) +.md",
@@ -186,14 +190,10 @@
     "02 Explanatory Data Analysis 1 left/Анализ зависимостей (2) +.md",
     "01 Сбор данных 1 left/Валидация данных при сборе (1) +.md",
     "01 Сбор данных 1 left/Источник данных (1) +.md",
-    "01 Сбор данных 1 left/Сбор данных (1) +.md",
     "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
     "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
     "02 Explanatory Data Analysis 1 left/Анализ сезонности (3) +.md",
     "02 Explanatory Data Analysis 1 left/Визуализация (1) +.md",
-    "02 Explanatory Data Analysis 1 left/Обзор данных (1) +.md",
-    "02 Explanatory Data Analysis 1 left/Поиск выбросов (1) +.md",
-    "02 Explanatory Data Analysis 1 left/Проверка пропусков (1) +.md",
     "07 Model Evaluation 6 left/Оценка на тестовой выборке (1) -.md",
     "07 Model Evaluation 6 left/Анализ ошибок на основе explainability tools (3).md",
     "07 Model Evaluation 6 left/Анализ ошибок (2) -.md",
