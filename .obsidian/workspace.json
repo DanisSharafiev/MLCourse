@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Вопросы к джентельмену.md",
+                "file": "00 База/Models/Basic Models/Классификация/Дерево решений классификатор (Decision Tree) (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы к джентельмену"
+              "title": "Дерево решений классификатор (Decision Tree) (1)"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Вопросы к джентельмену.md",
     "00 База/Набор джентельмена.md",
     "00 База/Models/Basic Models/Все необходимое в одном.md",
     "00 База/Models/Углубление/RecSys/Все в одном.md",
     "00 База/Models/База/Loss Functions (1).md",
     "00 База/Models/Углубление/RecSys",
     "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
-    "00 База/Вопросы к джентельмену.md",
     "00 База/Metrics/Классификация -.md",
     "00 База/Metrics/Регрессия -.md",
     "00 База/Models/Deep learning/Нейронные сети/Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2).md",
