@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Models/Deep learning/Нейронные сети/Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2).md",
+                "file": "00 База/Models/Углубление/RecSys/Все в одном.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2)"
+              "title": "Все в одном"
             }
           }
         ]
@@ -171,9 +171,15 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Models/База/Loss Functions (1).md",
+    "00 База/Models/Углубление/RecSys/Все в одном.md",
+    "00 База/Models/Углубление/RecSys",
     "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
-    "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
     "00 База/Вопросы к джентельмену.md",
+    "00 База/Metrics/Классификация -.md",
+    "00 База/Metrics/Регрессия -.md",
+    "00 База/Models/Deep learning/Нейронные сети/Рекуррентные нейронные сети (RNN) (LSTM, GRU) (2).md",
+    "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
     "01 Сбор данных 1 left/Валидация данных при сборе (1) +.md",
     "01 Сбор данных 1 left/Источник данных (1) +.md",
     "03 Data Wrangling 4 left/Интеграция данных (2) +.md",
@@ -192,11 +198,6 @@
     "04 Feature Engineering 4 left/Математические преобразования (1) +.md",
     "04 Feature Engineering 4 left/Кодирование категориальных данных (1) +.md",
     "02 Explanatory Data Analysis 1 left/Анализ зависимостей (2) +.md",
-    "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
-    "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
-    "02 Explanatory Data Analysis 1 left/Анализ сезонности (3) +.md",
-    "02 Explanatory Data Analysis 1 left/Визуализация (1) +.md",
-    "07 Model Evaluation 6 left/Оценка на тестовой выборке (1) -.md",
     "00 База",
     "Images/spotifyblend.png",
     "Images/spotify.png",
@@ -215,7 +216,6 @@
     "Model Evaluation/Использование метрик (1)/Untitled",
     "Images",
     "00 База/Models/База",
-    "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled",
-    "00 База/Models/Углубление/Reinforcement Learning"
+    "Models/Basic Models/Регрессия/Полиномиальная регрессия (1) Untitled"
   ]
 }
