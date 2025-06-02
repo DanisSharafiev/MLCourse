@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Вопросы к джентельмену.md",
+                "file": "00 База/Models/Углубление/RecSys/Все в одном.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы к джентельмену"
+              "title": "Все в одном"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
-    "00 База/Models/Углубление/RecSys/Все в одном.md",
     "00 База/Вопросы к джентельмену.md",
+    "00 База/Models/Углубление/RecSys/Все в одном.md",
     "00 База/Набор джентельмена.md",
     "00 База/Models/Basic Models/Классификация/Дерево решений классификатор (Decision Tree) (1).md",
     "00 База/Models/Basic Models/Все необходимое в одном.md",
