@@ -21,4 +21,16 @@ Libs: NLTK, TextBlob, spaCy, Gensim, PyTorch, Keras
 
 \["Hello,", "world!"]
 
+``` python
+import nltk
+from nltk.tokenize import word_tokenize, senq_tokenize
+text = "Hello, world!"
+print(word_tokenize(text))
+```
+
+
+
+
+
+
 
