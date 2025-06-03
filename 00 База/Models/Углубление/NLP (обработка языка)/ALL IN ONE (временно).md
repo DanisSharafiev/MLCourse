@@ -97,6 +97,7 @@ Levenshtein:
 - you can modify "weights" of each action
 - useful for autocorrection, misspelling and etc.
 
+Sensitive: cosine sim, square euclidian (L2 norm), Dot product (работает с проекцкией)
 
 
 
