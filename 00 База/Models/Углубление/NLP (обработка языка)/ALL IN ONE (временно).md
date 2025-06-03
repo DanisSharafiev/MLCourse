@@ -85,6 +85,18 @@ Scale sensitive and not sensitive
 - feature-based
 - probabilities
 
+Levenshtein distance
+Damerau-Lebenshtein distance
+Lee distance
+Hamming distance
+Jaro distance
+Jaro-Winkler distance
+
+Levenshtein:
+- substitute, insert, delete
+- you can modify "weights" of each action
+- useful for autocorrection, misspelling and etc.
+
 
 
 
