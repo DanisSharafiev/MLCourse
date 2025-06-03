@@ -107,8 +107,7 @@ SSIM Structural Similarity Index Measure
 
 accounts for differences, making it more perceptually accurate
 
-
-
+PCA for shrinking
 
 
 
