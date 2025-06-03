@@ -78,5 +78,24 @@ import re
 - Приведение к нижнему регистру
 - Удаление стоп слов: "и", "в", "на", "это"
 
+## Measures of Similarity
+
+Scale sensitive and not sensitive
+- distance-based
+- feature-based
+- probabilities
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
