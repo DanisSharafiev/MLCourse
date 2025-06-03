@@ -9,4 +9,16 @@
 
 ТОКЕНЫ - ТЕКСТОВЫЕ ЕДИНИЦЫ
 
-### Стемминг
+## Tokenization
+
+Libs: NLTK, TextBlob, spaCy, Gensim, PyTorch, Keras
+
+- Sentence tokenization
+
+\["Hello, world!"]
+
+- Word tokenization
+
+\["Hello,", "world!"]
+
+
