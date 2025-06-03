@@ -82,8 +82,8 @@ import re
 
 Scale sensitive and not sensitive
 - distance-based: euclidean, manhattan, minkowski, chebyshev
-- feature-based
-- probabilities
+- feature-based извлекаем признак и по нему сравниваем
+- probabilities 
 
 Levenshtein distance
 Damerau-Lebenshtein distance
