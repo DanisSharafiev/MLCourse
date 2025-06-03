@@ -103,9 +103,9 @@ Processing images:
 - "factual" лоб в лоб
 - "semantic" содержание
 
+SSIM Structural Similarity Index Measure
 
-
-
+accounts for differences, making it more perceptually accurate
 
 
 
