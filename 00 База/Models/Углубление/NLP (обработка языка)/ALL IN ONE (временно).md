@@ -99,8 +99,9 @@ Levenshtein:
 
 Sensitive: cosine sim, square euclidian (L2 norm), Dot product (работает с проекцкией)
 
-
-
+Processing images:
+- "factual" лоб в лоб
+- "semantic" содержание
 
 
 
