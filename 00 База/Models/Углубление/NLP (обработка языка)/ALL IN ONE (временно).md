@@ -81,7 +81,7 @@ import re
 ## Measures of Similarity
 
 Scale sensitive and not sensitive
-- distance-based
+- distance-based: euclidean, manhattan, minkowski, chebyshev
 - feature-based
 - probabilities
 
