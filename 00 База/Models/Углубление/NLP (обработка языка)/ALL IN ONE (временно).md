@@ -109,6 +109,7 @@ accounts for differences, making it more perceptually accurate
 
 PCA for shrinking
 
+### Tokenization
 
 
 
