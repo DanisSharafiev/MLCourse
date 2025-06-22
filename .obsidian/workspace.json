@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
+                "file": "00 База/Models/Углубление/RecSys/Все в одном.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Представление текста (1)"
+              "title": "Все в одном"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
     "00 База/Models/Углубление/RecSys/Все в одном.md",
     "00 База/Полезные работы.md",
     "00 База/Вопросы к джентельмену.md",
@@ -183,7 +184,6 @@
     "02 Explanatory Data Analysis 1 left/Анализ зависимостей (2) +.md",
     "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
     "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
-    "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
     "00 База/Models/Углубление/NLP (обработка языка)/Word Embeddings (Word2Vec, GloVe) (2).md",
     "00 База/Models/Углубление/NLP (обработка языка)/N-grams (2).md",
     "00 База/Models/Углубление/NLP (обработка языка)/ALL IN ONE (временно).md",
