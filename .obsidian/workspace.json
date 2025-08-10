@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Explanatory Data Analysis 1 left/Визуализация (1) +.md",
+                "file": "02 Explanatory Data Analysis 1 left/Анализ зависимостей (2) +.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Визуализация (1) +"
+              "title": "Анализ зависимостей (2) +"
             }
           }
         ]
@@ -171,7 +171,9 @@
   },
   "active": "1ad58e05705a6b74",
   "lastOpenFiles": [
+    "02 Explanatory Data Analysis 1 left/Обзор данных (1) +.md",
     "02 Explanatory Data Analysis 1 left/Анализ сезонности (3) +.md",
+    "02 Explanatory Data Analysis 1 left/Визуализация (1) +.md",
     "02 Explanatory Data Analysis 1 left/Анализ временных рядов (3) -.md",
     "02 Explanatory Data Analysis 1 left/Feature importance (3) +.md",
     "09 Model Serialization 2 left/Сохранение препроцессинга (2).md",
@@ -195,8 +197,6 @@
     "00 База/Набор джентельмена.md",
     "00 База/Вопросы к джентельмену.md",
     "00 База/Models/Углубление/RecSys/Все в одном.md",
-    "00 База/Models/Углубление/NLP (обработка языка)/Представление текста (1).md",
-    "00 База/Полезные работы.md",
     "Images/Pastedimage20250606122729.png",
     "Images/poorcons.png",
     "Images/Pasted image 20250606004915.png",
